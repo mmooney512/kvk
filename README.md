@@ -12,7 +12,7 @@ In the Data folder you will need to include the (3) .csv files and (1) .json fil
 Start the project by running the main.py.  There are no arguments / switches for the file.  
 $ python main.py
 
-SBI
+KVK
     >> data
     >> spark-warehouse
 main.py
