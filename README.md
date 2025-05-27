@@ -13,8 +13,8 @@ Start the project by running the main.py.  There are no arguments / switches for
 $ python main.py
 
 SBI
-    data
-    spark-warehouse
+    >> data
+    >> spark-warehouse
 main.py
 
 The main.py will first create the tables, and then start processing the data files. 
