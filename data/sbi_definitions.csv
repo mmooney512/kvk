@@ -1,0 +1,1833 @@
+code,descr_short_nl,descr_short_en,status
+0,"Landbouw, bosbouw en visserij","Agriculture, forestry and fishing",1
+01,"Landbouw, jacht en dienstverl. ervoor","Agriculture, hunting and related service activities",1
+011,Teelt van eenjarige gewassen,Growing of non-perennial crops,1
+0111,Teelt granen/peulvruchten/olieh. zaden,"Growing of cereals (except rice), leguminous crops and oil seeds",1
+0112,Teelt van rijst,Growing of rice,1
+0113,"Teelt groenten, wortel- en knolgewassen","Growing of vegetables and melons, roots and tubers",1
+01130,Teelt van groenten en wortel- en knolgewassen,"Growing of vegetables and melons, roots and tubers",1
+011301,Teelt van groenten en champignons,Growing of vegetables and mushrooms,1
+011302,Teelt aard./suikerb./ov. wortel/knolgew.,"Growing of potatoes, sugar beets and other root and tubers",1
+0114,Teelt van suikerriet,Growing of sugar cane,1
+0115,Tabaksteelt,Growing of tobacco,1
+0116,Teelt van vezelgewassen,Growing of fibre crops,1
+0119,Teelt van overige eenjarige gewassen,Growing of other non-perennial crops,1
+01190,Teelt van overige eenjarige gewassen,Growing of other non-perennial crops,1
+011901,Bloementeelt,"Growing of flowers, floriculture",1
+011909,Teelt van overige eenjarige gewassen,Growing of other non-perennial crops,1
+012,Teelt van meerjarige gewassen,Growing of perennial crops,1
+0121,Druiventeelt,Growing of grapes,1
+0122,Teelt van tropisch en subtropisch fruit,Growing of tropical and subtropical fruits,1
+0123,Teelt van citrusfruit,Growing of citrus fruits,1
+0124,Teelt van pit- en steenvruchten,Growing of pome and stone fruits,1
+0125,Teelt ov. boomvruchten/kleinfruit/noten,Growing of other tree and bush fruits and nuts,1
+0126,Teelt van olieachtige fruit,Growing of oleaginous fruits,1
+0127,Teelt gewassen voor verv. dranken,Growing of beverage crops,1
+0128,Teelt specerij-/aromatische/med.gewassen,"Growing of spices, aromatic, drug and pharmaceutical crops",1
+01280,Teelt van specerijgewassen en van aromatische en medicinale gewassen,"Growing of spices, aromatic, drug and pharmaceutical crops",1
+012801,Teelt medicinale en bestrijdingsgewassen,"Growing of plants for medicinal, insecticidal or fungicidal purposes",1
+012802,Teelt specerij- en aromatische gewassen,Growing of spices and aromatic crops,1
+0129,Teelt van overige meerjarige gewassen,Growing of other perennial crops,1
+013,Teelt van sierplanten,Cultivation of ornamental plants ,1
+0130,Teelt van sierplanten,Cultivation of ornamental plants,1
+01300,Teelt van sierplanten,Plant propagation,1
+013001,Teelt sierplanten (geen bomen/struiken),Plant propagation (no trees or shrubs),1
+013002,Teelt van sierbomen en -struiken,Propagation of ornamental trees or shrubs,1
+014,Fokken en houden van dieren,Animal production,1
+0141,Fokken en houden van melkvee,Raising of dairy cattle,1
+0142,Fokken/houden runderen (geen melkvee),Raising of other cattle and buffaloes,1
+0143,Fokken en houden van paarden en ezels,Raising of horses and other equines,1
+0144,Fokken en houden van kamelen en kameelachtigen,Raising of camels and camelids,0
+0145,Fokken en houden van schapen en geiten,Raising of sheep and goats,1
+0146,Fokken en houden van varkens,Raising of swine/pigs,1
+0147,Fokken en houden van pluimvee,Raising of poultry,1
+0149,Fokken en houden van overige dieren,Raising of other animals,1
+015,Akker- en/of tuinbouw i.c.m. dieren,Mixed farming,1
+0150,Akker-/tuinbouw icm fokken/houden dieren,Mixed farming,1
+016,Dienstverl. landb./behandeling na oogst,Support activities to agriculture and post-harvest crop activities,1
+0161,Dienstverl. akker- en/of tuinbouw,Support activities for crop production,1
+0162,Dienstverl. voor fokken en houden dieren,Support activities for animal production,1
+0163,Behandeling van gewassen na de oogst,Post-harvest crop activities,1
+0164,Behandeling van zaden voor vermeerdering,Seed processing for propagation,1
+01640,Behandeling van zaden voor vermeerdering,Seed processing for propagation,1
+016401,Beh. akkerbouwzaden voor vermeerdering,Processing of agricultural seeds for propagation,1
+016402,Beh. tuinbouwzaden voor vermeerdering,Processing of horticultural seeds (not of trees) for propagation,1
+016403,Beh. zaden boomkwekerijgew. voor verm.,Processing of seeds of trees for propagation,1
+017,Jacht,Hunting,1
+0170,Jacht,"Hunting, trapping and related service activities",1
+02,Bosbouw/exploitatie bossen/dienstv.bosb.,Forestry and logging,1
+021,Bosbouw,Silviculture and other forestry activities,1
+0210,Bosbouw,Silviculture and other forestry activities,1
+022,Exploitatie van bossen,Logging,1
+0220,Exploitatie van bossen,Logging,1
+023,Verzameling van wild groeiende niet-houtproducten,Gathering of wild growing non-wood products,1
+0230,Verzameling van wild groeiende niet-houtproducten,Gathering of wild growing non-wood products,1
+024,Dienstverlening voor de bosbouw,Support services to forestry,1
+0240,Dienstverlening voor de bosbouw,Support services to forestry,1
+03,Visserij en kweken van vis/schaaldieren,Fishing and aquaculture,1
+031,Visserij,Fishing,1
+0311,Zee- en kustvisserij,Marine fishing,1
+0312,Binnenvisserij,Freshwater fishing,1
+032,Kweken van vis en schaaldieren,Aquaculture,1
+0321,Kweken van zeevis en -schaaldieren,Marine aquaculture,1
+0322,Kweken van zoetwatervis en -schaaldieren,Freshwater aquaculture,1
+,Winning van delfstoffen,Mining and quarrying,1
+05,Winning van steenkool en bruinkool,Mining of coal and lignite,1
+051,Winning van harde steenkool,Mining of hard coal,1
+0510,Winning van harde steenkool,Mining of hard coal,1
+052,Winning van bruinkool,Mining of lignite,1
+0520,Winning van bruinkool,Mining of lignite,1
+06,Winning van aardolie en aardgas,Extraction of crude petroleum and natural gas,1
+061,Winning van aardolie,Extraction of crude petroleum,1
+0610,Winning van aardolie,Extraction of crude petroleum,1
+062,Winning van aardgas,Extraction of natural gas,1
+0620,Winning van aardgas,Extraction of natural gas,1
+07,Winning van metalen ertsen,Mining of metal ores,1
+071,Winning van ijzererts,Mining of iron ores,1
+0710,Winning van ijzererts,Mining of iron ores,1
+072,Winning van niet-ijzerhoudende metalen ertsen,Mining of non-ferrous metal ores,1
+0721,Winning van uranium en thorium ertsen,Mining of uranium and thorium ores,1
+0729,Winning van andere niet-ijzerhoudende metalen ertsen,Mining of other non-ferrous metal ores,1
+08,Winning delfstoffen (geen olie en gas),Other mining and quarrying,1
+081,"Winning van zand, grind en klei","Quarrying of stone, sand and clay",1
+0811,"Winning van decoratief- en bouwsteen, kalksteen, gips, krijt en leisteen","Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate",0
+0812,"Winning van zand, grind en klei","Mining of sand, gravel and clay",1
+08120,"Winning van zand, grind en klei",Operation of gravel and sand pits; mining of clays and kaolin,1
+081201,Winning van zand en grind,Operation of gravel and sand pits,1
+081202,Winning van klei,Quarrying or mining of clay,1
+089,Winning van overige delfstoffen,Mining and quarrying n.e.c.,1
+0891,Winning van chemische- en meststof mineralen,Mining of chemical and fertiliser minerals,1
+0892,Winning van turf,Extraction of peat,1
+0893,Winning van zout,Extraction of salt,1
+0899,Winning van overige delfstoffen n.e.g.,Other mining and quarrying n.e.c.,1
+09,Dienstverl. winning van delfstoffen,Mining support service activities,1
+091,Dienstverl. winning van aardolie en -gas,Support activities for petroleum and natural gas extraction,1
+0910,Dienstverl. winning aardolie en aardgas,Support activities for petroleum and natural gas extraction,1
+099,Dienstv. winning delfst. (geen olie/gas,Support activities for other mining and quarrying,1
+0990,Dienst. winning delfstof (geen olie/gas),Support activities for other mining and quarrying,1
+,Industrie,Manufacturing,1
+10,Vervaardiging van voedingsmiddelen,Manufacture of food products,1
+101,Slachterijen en vleesverwerking,Slaughterhouses and meat processing,1
+1011,Slachterijen (geen pluimvee-),Slaughterhouses (no poultry),1
+1012,Pluimveeslachterijen,Slaughterhouses (poultry),1
+1013,Vleesverwerking (niet tot maaltijden),Processing of meat (no prepared dishes),1
+102,Visverwerking,"Processing and preserving of fish, crustaceans and molluscs",1
+1020,Visverwerking,"Processing and preserving of fish, crustaceans and molluscs",1
+103,Verwerking van aardappels/groente/fruit,Processing and preserving of fruit and vegetables,1
+1031,Vervaardiging van aardappelproducten,Processing and preserving of potatoes,1
+1032,Vervaardiging van fruit- en groentesap,Manufacture of fruit and vegetable juice,1
+1039,Verw.groente/fruit (geen sap/maaltijden),Other processing and preserving of fruit and vegetables,1
+104,Verv. plant. en dierlijke oliën/vetten,Manufacture of vegetable and animal oils and fats,1
+1041,Verv. plant. en dierlijke oliën/vetten,Manufacture of oils and fats,1
+10410,Vervaardiging van plantaardige en dierlijke oliën en vetten (geen margarine en a,Manufacture of oils and fats,1
+104101,Verv. ruwe plant. en dierl. oliën/vetten,Manufacture of crude vegetable and animal oils and fats,1
+104102,Raffinage plant./dierl. oliën en vetten,Refining of vegetable and animal oils and fats,1
+1042,Verv. margarine en overige spijsvetten,Manufacture of margarine and similar edible fats,1
+105,Vervaardiging van zuivelproducten,Manufacture of dairy products,1
+1051,Verv. zuivelprod. (geen consumptie-ijs),Operation of dairies and cheese making,1
+1052,Vervaardiging van consumptie-ijs,Manufacture of ice cream,1
+106,Vervaardiging van meel,"Manufacture of grain mill products, starches and starch products",1
+1061,Vervaardiging van meel (geen zetmeel),Manufacture of grain mill products,1
+1062,Verv. zetmeel en zetmeelproducten,Manufacture of starches and starch products,1
+107,Verv. brood/banketbakkerswerk/deegwaren,Manufacture of bakery and farinaceous products,1
+1071,Verv. brood en vers banketbakkerswerk,Manufacture of bread and fresh pastry,1
+1072,Verv. houdbaar banketbakkerswerk,"Manufacture of rusks, biscuits and preserved pastry",1
+1073,Vervaardiging van deegwaren,Manufacture of farinaceous products,1
+108,Verv. overige voedingsmiddelen,Manufacture of other food products,1
+1081,Vervaardiging van suiker,Manufacture of sugar,1
+1082,Verw. cacao/verv. chocolade/suikerwerk,"Processing of cocoa, chocolate and sugar confectionery",1
+10821,Verwerking van cacao,Processing of cocoa,1
+10822,Verv. chocolade en suikerwerk,Manufacture of coffee and thee,1
+1083,Verwerking van koffie en thee,Processing of tea and coffee,1
+1084,Verv. specerijen/sauzen/kruiderij/zoutr.,Manufacture of condiments and seasonings,1
+10840,"Vervaardiging van specerijen, sauzen en kruiderijen; zoutraffinage",Manufacture of condiments and seasonings,1
+108401,"Verv. specerijen, sauzen en kruiderijen",Manufacture of condiments and seasonings,1
+108402,"Breken, zuiveren en raffineren van zout",Activities related to printing n.e.c.,1
+1085,Verv. kant-en-klaarmaaltijden en snacks,Manufacture of prepared meals and dishes,1
+10850,Vervaardiging van kant-en-klaarmaaltijden en snacks,Manufacture of prepared meals and dishes,1
+108501,Verv. bereide vlees- en vismaaltijden,Manufacture of prepared meat and fish meals,1
+108502,Verv. bereide groentemaaltijden,Manufacture of prepared vegetable meals,1
+1086,Verv. gehomogeniseerde voeding,Manufacture of homogenised food preparations and dietetic food,1
+1089,Verv. overige voedingsmiddelen n.e.g.,Manufacture of other food products n.e.c.,1
+109,Vervaardiging van diervoeders,Manufacture of prepared animal feeds,1
+1091,Vervaardiging van veevoeders,Manufacture of prepared feeds for farm animals,1
+1092,Verv. voeders voor huisdieren,Manufacture of prepared pet foods,1
+11,Vervaardiging van dranken,Manufacture of beverages,1
+110,Vervaardiging van dranken,Manufacture of beverages,1
+1101,Verv. sterk alcoholische dranken door distilleren en rectificeren,"Distilling, rectifying and blending of spirits",1
+11010,Vervaardiging van sterk alcoholische dranken,"Distilling, rectifying and blending of spirits",1
+110101,Distilleerderijen en likeurstokerijen,Distilleries and liquor distilleries,1
+110102,Verv. drinkb. ethylalcohol door gisting,Prod. of potable ethyl alcohol by fermentation,1
+1102,Vervaardiging van wijn uit druiven,Manufacture of wine from grape,1
+1103,Verv. cider en overige vruchtenwijnen,Manufacture of cider and other fruit wines,1
+1104,Verv.overige niet-gedist.gegiste dranken,Manufacture of other non-distilled fermented beverages,1
+1105,Vervaardiging van bier,Manufacture of beer,1
+1106,Mouterijen,Manufacture of malt,1
+1107,Verv. frisdranken; prod. gebotteld water,Manufacture of soft drinks and bottled water,1
+12,Vervaardiging van tabaksproducten,Manufacture of tobacco products,1
+120,Vervaardiging van tabaksproducten,Manufacture of tobacco products,1
+1200,Vervaardiging van tabaksproducten,Manufacture of tobacco products,1
+13,Vervaardiging van textiel,Manufacture of textiles,1
+131,Bewerken en spinnen van textielvezels,Preparation and spinning of textile fibres,1
+1310,Bewerken en spinnen van textielvezels,Preparation and spinning of textile fibres,1
+13100,Bewerken en spinnen van textielvezels,Preparation and spinning of textile fibres,1
+131001,Bewerken/spinnen katoen(achtige vezels),Preparation and spinning of cotton or cotton-type fibres,1
+131002,Bew./spinnen kaardwol(achtige vezels),Preparation and spinning of carding wool or carding wool-type fibre,1
+131003,Bewerken/spinnen kamwol(achtige vezels),Preparation and spinning of combing-wool and combing-wool-type fibres,1
+131004,Bewerken/spinnen vlas(achtige vezels),Preparation and spinning of flax and flax-type fibres,1
+131005,Twijnen e.d zijde; synthetische vezels,Preparation and twisting of silk,1
+131006,Vervaardiging van naaigarens,Manufacture of yarn or sewing thread,1
+131009,Bewerken/spinnen overige textielvezels,Preparation and spinning of textile fibres n.e.c.,1
+132,Weven van textiel,Weaving of textiles,1
+1320,Weven van textiel,Weaving of textiles,1
+13200,Weven van textiel,Weaving of textiles,1
+132001,Verv. katoenen of katoenachtige weefsels,Weaving of textiles,1
+132002,Verv. kaardwollen/kaardwolacht. weefsels,Manufacture of carding wool or carding wool-type fibre,1
+132003,Verv. kamwol of kamwolachtige weefsels,Manufacture of combing-wool and combing-wool-type fibres,1
+132004,Verv. zijden of zijdeachtige weefsels,Manufacture of silk or silk-like fabrics,1
+132009,Vervaardiging van overige weefsels,Manufacture of textile fibres n.e.c.,1
+133,Textielveredeling,Finishing of textiles,1
+1330,Textielveredeling,Finishing of textiles,1
+139,Verv. overige textielproducten,Manufacture of other textiles,1
+1391,Verv. gebreide en gehaakte stoffen,Manufacture of knitted and crocheted fabrics,1
+1392,Verv. geconfectioneerde art. van textiel,"Manufacture of made-up textile articles, except apparel",1
+1393,Vervaardiging van vloerkleden en tapijt,Manufacture of carpets and rugs,1
+1394,"Verv. koord, bindgaren, touw en netten","Manufacture of cordage, rope, twine and netting",1
+1395,Verv. gebonden textielvlies en artikelen,"Manufacture of non-wovens and articles made from non-wovens, except apparel",1
+1396,Verv. technisch en industrieel textiel,Manufacture of other technical and industrial textiles,1
+1399,Verv. overige textielproducten n.e.g.,Manufacture of other textiles n.e.c.,1
+14,Vervaardiging van kleding,Manufacture of wearing apparel,1
+141,Verv. kleding (geen bontkleding),"Manufacture of wearing apparel, except fur apparel",1
+1411,Vervaardiging van kleding van leer,Manufacture of leather clothes,1
+1412,Vervaardiging van werkkleding,Manufacture of workwear,1
+1413,Vervaardiging van overige bovenkleding,Manufacture of other outerwear,1
+1414,Vervaardiging van onderkleding,Manufacture of underwear,1
+1419,Verv. baby-/sportkleding en kledingacc.,Manufacture of other wearing apparel and accessories,1
+142,Vervaardiging van artikelen van bont,Manufacture of articles of fur,1
+1420,Vervaardiging van artikelen van bont,Manufacture of articles of fur,1
+143,Verv. gebreide en gehaakte kleding,Manufacture of knitted and crocheted apparel,1
+1431,Verv. gebreide/gehaakte kousen en sokken,Manufacture of knitted and crocheted hosiery,1
+1439,Verv. gebreide en gehaakte kleding,Manufacture of other knitted and crocheted apparel,1
+15,"Verv. leer, lederwaren en schoenen",Manufacture of leather and related products,1
+151,Looien/bewerken leer; verv. leerprod.,"Tanning/dressing of leather; manuf. of luggage, handbags, saddlery and harness",1
+1511,Looien/bew. leer; bereiden/verven bont,Tanning and dressing of leather; dressing and dyeing of fur,1
+15110,Looien en bereiden van leer; bereiden en verven van bont,Tanning and dressing of leather; dressing and dyeing of fur,1
+151101,Looien en bewerken van leer,Tanning and dressing of leather,1
+151102,Bereiden en verven van bont,Preparation and dyeing of fur,1
+1512,"Verv. koffers, tassen, zadels e.d.","Manufacture of luggage, handbags and the like, saddlery and harness",1
+152,Vervaardiging van schoenen,Manufacture of footwear,1
+1520,Vervaardiging van schoenen,Manufacture of footwear,1
+16,Primaire houtbew./verv. art. van hout ed,"Manufacture of wood and of products of wood and cork, except furniture; manufact",1
+161,Primaire houtbewerking/verduurzamen hout,Sawmilling and planing of wood,1
+1610,Primaire houtbewerking/verduurzamen hout,Sawmilling and planing of wood,1
+16101,"Primaire houtbewerking (zagen, schaven)","Sawing, planing and other primary adaptation of wood",1
+16102,Verduurzamen van hout,Preservation of wood,1
+162,"Verv. artikelen van hout, kurk, riet","Manufacture of products of wood, cork, straw and plaiting materials",1
+1621,Verv. fineer/plaatmateriaal op houtbasis,Manufacture of veneer sheets and wood-based panels,1
+1622,Verv. panelen voor parketvloeren,Manufacture of assembled parquet floors,1
+1623,Verv. overig timmerwerk voor de bouw,Manufacture of other builders carpentry and joinery,1
+16231,"Verv. deuren, ramen en kozijnen van hout","Manufacture of doors, windows and frames of wood",1
+16239,Verv. overig timmerwerk voor de bouw,"Manufacture of other builders carpentry for construction (no doors, windows and",1
+1624,Vervaardiging van houten emballage,Manufacture of wooden containers,1
+1629,Verv. overige art. van hout/kurk/riet,"Manuf. of oth. prod. of wood; of cork, straw and plaiting mat.(no furn.) ",1
+16290,"Verv. ov. artikelen van hout; verv. artikelen van kurk, riet en vlechtwerk","Manuf. of oth. prod. of wood; of cork, straw and plaiting mat.(no furn.) ",1
+162901,Verv. overige artikelen van hout,Manufacture of other products of wood,1
+162902,"Verv. art. van kurk, riet en vlechtwerk","Manuf. of art. of cork, reed and wicker (no furniture)",1
+17,Verv. papier(waren) en karton(waren),Manufacture of paper and paper products,1
+171,"Verv. papierpulp, papier en karton","Manufacture of pulp, paper and paperboard",1
+1711,Vervaardiging van papierpulp,Manufacture of pulp,1
+1712,Vervaardiging van papier en karton,Manufacture of paper and paperboard,1
+17121,Verv. grafisch papier en karton,Manufacture of graphic paper and cardboard,1
+17122,Verv. papier en karton voor verpakking,Manufacture of paper and cardboard for packing,1
+17129,Verv. papier/karton (niet grafisch/verp),Manufacture of paper and cardboard (no graphic and not for packing),1
+172,Vervaardiging van papier- en kartonwaren,Manufacture of articles of paper and paperboard,1
+1721,Verv. verpak.middelen van papier/karton,Manufacture of corrugated paper/paperboard and of containers of paper/paperboard,1
+17211,Verv. verpakkingsmiddelen(papier/karton),Manufacturing of containers of paper and paperboard ,1
+17212,Vervaardiging van golfpapier en -karton,Manufacturing of corrugated paper and paperboard,1
+1722,Verv. huishoudelijke/sanitaire papierw.,Manufacture of household/sanitary articles of paper,1
+1723,Verv. kantoorbenodigdheden van papier,Manufacture of paper stationery,1
+1724,Vervaardiging van behangselpapier,Manufacture of wallpaper,1
+1729,Verv. overige papier- en kartonwaren,Manufacture of other articles of paper and paperboard,1
+18,"Drukkerijen, reproductie opgenomen media",Printing and reproduction of recorded media,1
+181,Drukkerijen en dienstverlening ervoor,Printing and service activities related to printing,1
+1811,Drukkerijen van dagbladen,Printing of newspapers,1
+1812,Overige drukkerijen,Other printing,1
+18121,Drukkerijen van boeken e.d.,"Printers of books, etc.",1
+18122,Drukkerijen van tijdschriften,Printers of periodicals,1
+18123,Drukkerijen van reclame,Printers of advertising,1
+18124,Drukkerijen van verpakkingen,Printers of packings,1
+18125,Drukkerijen van formulieren,Printers of forms,1
+18129,Overige drukkerijen n.e.g.,Other printers n.e.c.,1
+1813,Prepress- en premedia-activiteiten,Pre-press and pre-media services,1
+1814,Grafische afwerking en verwante activit,Binding and related services,1
+18140,Grafische afwerking en overige activiteiten verwant aan de drukkerij,Binding and related services,1
+181401,Grafische afwerking,Binding and other graphic finishing,1
+181402,Ov. activiteiten verwant aan drukkerij,Activities related to printing n.e.c.,1
+182,Reproductie van opgenomen media,Reproduction of recorded media,1
+1820,Reproductie van opgenomen media,Reproduction of recorded media,1
+18200,Reproductie van opgenomen media,Reproduction of recorded media,1
+182001,Reproductie van geluidsopnamen,Reproduction of sound recordings,1
+182002,Reproductie van video-opnamen,Reproduction of video recordings,1
+182003,Reproductie van computermedia,Reproduction of computer media,1
+19,Verv. cokesovenprod. en aardolieverw.,Manufacture of coke and refined petroleum products,1
+191,Vervaardiging van cokesovenproducten,Manufacture of coke oven products,1
+1910,Vervaardiging van cokesovenproducten,Manufacture of coke oven products,1
+19100,Vervaardiging van cokesovenproducten,Manufacture of coke oven products,1
+191001,Verv. cokesovenprod. (geen pek(cokes)),Manufacture of coke oven products (no pitch or pitch cokes),1
+191002,Vervaardiging van pek en pekcokes,Manufacture of pitch or pitch cokes,1
+192,Aardolieverwerking,Processing of refined petroleum products,1
+1920,Aardolieverwerking,Processing of refined petroleum products,1
+19201,Aardolieraffinage,Petroleum refinery,1
+19202,Aardolieverwerking (geen -raffinage),Processing of refined petroleum products (not refinery),1
+20,Vervaardiging van chemische producten,Manufacture of chemicals and chemical products,1
+201,Verv. chemische basisproducten e.d.,"Manuf. of basic chem., fertilisers, nitrogen comp., primary plastics/rubbers",1
+2011,Vervaardiging van industriële gassen,Manufacture of industrial gases,1
+2012,Vervaardiging van kleur- en verfstoffen,Manufacture of dyes and pigments,1
+2013,Verv. overige anorg. basischemicaliën,Manufacture of other inorganic basic chemicals,1
+20130,Verv. overige anorg. basischemicaliën,Manufacture of other inorganic basic chemicals,1
+201301,Verrijking van uranium,Enrichment of uranium,1
+201302,Verv. ov. anorganische basischemicaliën,Manufacture of other anorganic basic chemicals n.e.c.,1
+2014,Verv. overige organ. basischemicaliën,Manufacture of other organic basic chemicals,1
+20141,Verv. petrochemische producten,Manufacture of petrochemical products,1
+20149,Verv. overige organ. basischemicaliën,Manufacture of organic basic chemicals (no petrochemical products),1
+201491,Verv. niet-drinkb.ethylalcohol (gisting),Manufacturing non-potable ethanol by fermentation,1
+201499,Verv. ov. organische basischemicaliën,Manufacture of other organic basic chemicals n.e.c.,1
+2015,Verv. kunstmeststoffen/stikstofverbind.,Manufacture of fertilisers and nitrogen compounds,1
+2016,Verv. kunststof in primaire vorm,Manufacture of plastics in primary forms,1
+2017,Verv. synth. rubber in primaire vorm,Manufacture of synthetic rubber in primary forms,1
+202,Verv. verdelgingsmiddelen e.d.,Manufacture of pesticides and other agrochemical products,1
+2020,Verv. verdelgingsmid./ov.landbouwchem.,Manufacture of pesticides and other agrochemical products,1
+203,Verv. verf/vernis e.d./drukinkt/mastiek,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",1
+2030,Verv. verf/vernis e.d/drukinkt/mastiek,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",1
+204,Verv. zeep/was-/poetsmiddelen/cosmetica,"Manufacture of soap and detergents, cleaning and polishing preparations, perfume",1
+2041,Verv. zeep/wasmid./poets-/reinigingsmid.,"Manufacture of soap and detergents, cleaning and polishing preparations",1
+2042,Vervaardiging van parfums en cosmetica,Manufacture of perfumes and toilet preparations,1
+205,Verv. overige chemische producten,Manufacture of other chemical products,1
+2051,Verv. kruit/springstoffen/lucifers,Manufacture of explosives,1
+20510,Vervaardiging van kruit en springstoffen en van lucifers,Manufacture of explosives,1
+205101,Vervaardiging van kruit en springstoffen,Manufacture of gunpowder and explosives,1
+205102,Vervaardiging van lucifers,Manufacture of matches,1
+2052,Verv. lijm en bereide kleefmiddelen,Manufacture of glues,1
+2053,Vervaardiging van etherische oliën,Manufacture of essential oils,1
+2059,Verv. overige chemische producten n.e.g.,Manufacture of other chemical products n.e.c.,1
+20590,Vervaardiging van  overige chemische producten n.e.g.,Manufacture of other chemical products n.e.c.,1
+205901,Verv. gelatine en derivaten daarvan,Manufacture of gelatin and its derivatives,1
+2059011,Vervaardiging van chemisch gewijzigde oliën en vetten,Manufacture of of chemically modified oils and fats,1
+2059012,Verv. van speciale synth. smeeroliën en additieven voor smeerolie,Manuf. of special synth. lubricating oils and lubricating oil additives,1
+205902,Verv. fotochemische producten,Manufacture of photochemical products,1
+205903,Verv. overige chemische producten n.e.g.,Manufacture of chemical products n.e.c.,1
+206,Verv. synthetische en kunstmatige vezels,Manufacture of man-made fibres,1
+2060,Verv. synthetische en kunstmatige vezels,Manufacture of man-made fibres,1
+21,Verv. farmaceutische grondstoffen/prod.,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+211,Verv. farmaceutische grondstoffen,Manufacture of basic pharmaceutical products,1
+2110,Verv. farmaceutische grondstoffen,Manufacture of basic pharmaceutical products,1
+212,Verv. farmaceutische producten,Manufacture of pharmaceutical preparations,1
+2120,Verv. farmaceutische producten,Manufacture of pharmaceutical preparations,1
+21200,Vervaardiging van farmaceutische producten (geen grondstoffen),Manufacture of pharmaceutical preparations,1
+212001,Verv. farmaceut.prod. (geen grondst),Manufacture of pharmaceutical preparations,1
+212002,Verv. radioactieve elementen (medisch),Manufacture of radioactive elements for medical use,1
+22,Verv. producten van rubber en kunststof,Manufacture of rubber and plastic products,1
+221,Vervaardiging van producten van rubber,Manufacture of rubber products,1
+2211,Verv. rubberbanden/loopvlakvernieuwing,Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres,1
+22110,Verv. van rubberbanden en loopvlakvernieuwing,Manuf. of rubber tyres and tubes; retreading/rebuilding of rubber tyres,1
+221101,Vervaardiging van rubberbanden,Manufacture of rubber tyres,1
+221102,Vernieuwen van loopvlakken,Retreading of tyres,1
+2219,Verv. producten van rubber (geen banden),Manufacture of other rubber products,1
+222,Verv. producten van kunststof,Manufacture of plastics products,1
+2221,"Verv. platen,folie,buizen e.d.(kunstst.)","Manufacture of plastic plates, sheets, tubes and profiles",1
+2222,Verv. verpakkingsmiddelen van kunststof,Manufacture of plastic packing goods,1
+2223,Verv. kunststofproducten voor de bouw,Manufacture of builders ware of plastic,1
+22230,Vervaardiging van kunststofproducten voor de bouw,Manufacture of builders ware of plastic,1
+222301,Verv. kunststofproducten voor de bouw,Manufacture of builders’ ware of plastic (incl. hard floor cover),1
+222302,Verv. linoleum e.d. (geen kunststof),Manuf. of linoleum and solid floor coverings made of plastic,1
+2229,Verv. overige producten van kunststof,Manufacture of other plastic products,1
+23,Verv. overige niet-metaalh. minerale pr.,Manufacture of other non-metallic mineral products,1
+231,Vervaardiging van glas en glaswerk,Manufacture of glass and glass products,1
+2311,Vervaardiging van vlakglas,Manufacture of flat glass,1
+2312,Vormen en bewerken van vlakglas,Shaping and processing of flat glass,1
+2313,Vervaardiging van holglas,Manufacture of hollow glass,1
+2314,Vervaardiging van glasvezels,Manufacture of glass fibres,1
+2319,Verv./bew overig glas incl. techn. glasw,"Manuf. and processing of other glass, incl. technical glassware",1
+232,Verv. vuurvaste keramische producten,Manufacture of refractory products,1
+2320,Verv. vuurvaste keramische producten,Manufacture of refractory products,1
+233,Verv. keramische producten voor de bouw,Manufacture of clay building materials,1
+2331,Verv. keramische tegels en plavuizen,Manufacture of ceramic tiles and flags,1
+2332,Verv. keramische producten voor de bouw,"Manufacture of bricks, tiles and construction products, in baked clay",1
+234,Verv. overige keramische producten,Manufacture of other porcelain and ceramic products,1
+2341,Verv. huishoudelijk en sieraardewerk,Manufacture of ceramic household and ornamental articles,1
+2342,Vervaardiging van sanitair aardewerk,Manufacture of ceramic sanitary fixtures,1
+2343,Verv. isolatoren en isolatiemateriaal,Manufacture of ceramic insulators and insulating fittings,1
+2344,Verv. overig technisch aardewerk,Manufacture of other technical ceramic products,1
+2349,Verv. overige keramische prod. n.e.g.,Manufacture of other ceramic products,1
+235,"Vervaardiging van cement, kalk en gips","Manufacture of cement, lime and plaster",1
+2351,Vervaardiging van cement,Manufacture of cement,1
+2352,Vervaardiging van kalk en gips,Manufacture of lime and plaster,1
+23520,Vervaardiging van kalk en gips,Manufacture of lime and plaster,1
+235201,Vervaardiging van kalk,Manufacture of lime,1
+235202,Vervaardiging van gips,Manufacture of plaster,1
+236,"Verv. prod. van beton, gips en cement","Manufacture of articles of concrete, cement and plaster",1
+2361,Verv. producten van beton voor de bouw,Manufacture of concrete products for construction purposes,1
+23611,Verv. producten van beton voor de bouw,Manufacture of products of concrete for the construction,1
+23612,Vervaardiging van kalkzandsteen,Manufacture of lime-sandstone,1
+2362,Verv. producten van gips voor de bouw,Manufacture of plaster products for construction purposes,1
+2363,Vervaardiging van stortklare beton,Manufacture of ready-mixed concrete,1
+2364,Vervaardiging van mortel in droge vorm,Manufacture of mortars,1
+2365,Verv. producten van vezelcement,Manufacture of fibre cement,1
+2369,Verv.overige prod. van beton/gips/cement,"Manufacture of other articles of concrete, plaster and cement",1
+237,Natuursteenbewerking,"Cutting, shaping and finishing of stone",1
+2370,Natuursteenbewerking,"Cutting, shaping and finishing of stone",1
+239,Verv. overige niet-metaalh. minerale pr.,Manuf. of abrasive products and non-metallic mineral prod. n.e.c.,1
+2391,"Verv. schuur-, slijp- en polijstmiddelen",Production of abrasive products,1
+2399,Verv. overige niet-metaalh. minerale pr.,Manuf. of other non-metallic mineral products (no abrasive prod.),1
+24,Verv. metalen in primaire vorm,Manufacture of basic metals,1
+241,Verv. ijzer/staal/ferrolegeringen,Manufacture of basic iron and steel and of ferro-alloys,1
+2410,"Verv. ijzer, staal en ferrolegeringen",Manufacture of basic iron and steel and of ferro-alloys,1
+242,Verv. stalen buizen/holle profielen e.d.,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",1
+2420,"Verv. stalen buizen, pijpen e.d.","Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",1
+243,Overige eerste verwerking van staal,Manufacture of other products of first processing of steel,1
+2431,Koudtrekken van staven,Cold drawing of bars,1
+2432,Koudwalsen van bandstaal,Cold rolling of narrow strip,1
+2433,Koudvervormen en koudfelsen,Cold forming or folding,1
+2434,Koudtrekken van draad,Cold drawing of wire,1
+244,Verv. edelmetalen en overige non-ferrom.,Manufacture of basic precious and other non-ferrous metals,1
+2441,Vervaardiging van edelmetalen,Precious metals production,1
+2442,Vervaardiging van aluminium,Aluminium production,1
+2443,"Vervaardiging van lood, zink en tin","Lead, zinc and tin production",1
+2444,Vervaardiging van koper,Copper production,1
+2445,Verv. overige non-ferrometalen,Other non-ferrous metal production,1
+2446,Smelten en raffineren van uranium,Processing of nuclear fuel,1
+245,Gieten van metalen,Casting of metals,1
+2451,Gieten van ijzer,Casting of iron,1
+24510,Gieten van ijzer,Casting of iron,1
+245101,Vervaardiging van gietijzeren buizen,Manufacture of cast iron pipes,1
+245102,Gieten van ijzer,Manufacture of chain and springs,1
+2452,Gieten van staal,Casting of steel,1
+2453,Gieten van lichte metalen,Casting of light metals,1
+2454,Gieten van overige non-ferrometalen,Casting of other non-ferrous metals,1
+25,Verv. prod. van metaal (geen mach./app.),"Manufacture of fabricated metal products, except machinery and equipment",1
+251,Verv. metalen producten voor de bouw,Manufacture of structural metal products,1
+2511,Verv. metalen constr.werken/delen ervan,Manufacture of metal structures and parts of structures,1
+2512,Verv. metalen deuren/vensters/kozijnen,Manufacture of doors and windows of metal,1
+252,Verv. reservoirs van metaal e.d.,"Manufacture of tanks, reservoirs and containers of metal",1
+2521,Verv. ketels/radiatoren voor centr.verw.,Manufacture of central heating radiators and boilers,1
+2529,Verv. metalen tanks en reservoirs,"Manufacture of other tanks, reservoirs and containers of metal",1
+253,Verv. stoomketels (geen ketels voor cv),"Manufacture of steam generators, except central heating hot water boilers",1
+2530,Verv. stoomketels (niet voor centr.verw),"Manufacture of steam generators, except central heating hot water boilers",1
+254,Vervaardiging van wapens en munitie,Manufacture of weapons and ammunition,1
+2540,Vervaardiging van wapens en munitie,Manufacture of weapons and ammunition,1
+255,Smeden/persen/stampen/profielwalsen e.d.,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",1
+2550,Smeden/persen/stampen/profielwalsen e.d.,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",1
+256,Oppervlaktebeh. en bekleding van metaal,Treatment and coating of metals; machining,1
+2561,Oppervlaktebeh. en bekleding van metaal,Treatment and coating of metals,1
+2562,Algemene metaalbewerking,Machining,1
+257,Verv. bestek/ger.sch./hang-/sluitwerk,"Manufacture of cutlery, tools and general hardware",1
+2571,"Verv. scharen, messen en bestek",Manufacture of cutlery,1
+2572,Vervaardiging van hang- en sluitwerk,Manufacture of locks and hinges,1
+2573,Vervaardiging van gereedschap,Manufacture of tools,1
+259,Verv. overige producten van metaal,Manufacture of other fabricated metal products,1
+2591,Vervaardiging van stalen vaten e.d.,Manufacture of steel drums and similar containers,1
+2592,Verv. verpakkingsmid. van licht metaal,Manufacture of light metal packaging,1
+2593,Verv. art. van draad/kettingen/veren,"Manufacture of wire products, chain and springs",1
+25930,Vervaardiging van artikelen van draad en van kettingen en veren,"Manufacture of wire products, chain and springs",1
+259301,Vervaardiging van artikelen van draad,Manufacture of wire products,1
+259302,Vervaardiging van kettingen en veren,Manufacture of chains and springs,1
+2594,"Verv. bouten, schroeven en moeren",Manufacture of fasteners and screw machine products,1
+2599,Verv. overige producten van metaal neg.,Manufacture of other fabricated metal products n.e.c.,1
+26,Verv. computers en elektr./opt. app.,"Manufacture of computer, electronic and optical products",1
+261,Verv. elektronische comp. en printplaten,Manufacture of electronic components and boards,1
+2611,Verv. elektronische componenten,Manufacture of electronic components,1
+26110,Vervaardiging van elektronische componenten,Manufacture of electronic components,1
+261101,"Verv. elekt. smoorspoelen, gelijkr. e.d.","Manufacture of electrical inductors, rectifiers and other inducers",1
+261109,Verv. overige elektronische comp. n.e.g.,Manufacture of other electronic components,1
+2612,Verv. elektronische printplaten,Manufacture of loaded electronic boards,1
+262,Verv. computers en randapparatuur,Manufacture of computers and peripheral equipment,1
+2620,Verv. computers en randapparatuur,Manufacture of computers and peripheral equipment,1
+263,Vervaardiging van communicatieapparatuur,Manufacture of communication equipment,1
+2630,Vervaardiging van communicatieapparatuur,Manufacture of communication equipment,1
+26300,Vervaardiging van communicatieapparatuur,Manufacture of communication equipment,1
+263001,Vervaardiging van alarminstallaties,Manufacture of alarm systems,1
+263002,Verv. communicatieapp. (geen alarminst.),Manufacture of communication equipment (no alarm systems),1
+264,Vervaardiging van consumentenelektronica,Manufacture of consumer electronics,1
+2640,Vervaardiging van consumentenelektronica,Manufacture of consumer electronics,1
+265,Verv. meet-/regel-/navigatieapp./uurw.,"Manufacture of instruments and appliances for measuring, testing and navigation;",1
+2651,"Verv. meet-/regel-/navigatie-/contr.app,","Manufacture of instruments and appliances for measuring, testing and navigation",1
+2652,Vervaardiging van uurwerken,Manufacture of watches and clocks,1
+266,Verv. bestralingsapparatuur e.d.,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",1
+2660,Verv. bestralingsapp./elektromed. app.,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",1
+267,Verv. optische instrumenten en apparaten,Manufacture of optical instruments and photographic equipment,1
+2670,Verv. optische instrumenten en apparaten,Manufacture of optical instruments and photographic equipment,1
+26700,Vervaardiging van optische instrumenten en apparatuur,Manufacture of optical instruments and photographic equipment,1
+267001,Verv. optische meetinstrumenten,Manufacture of optical instruments,1
+267002,Verv. optische/fotografische instr./app.,Man. of optical/photographic instrum./equipm. (no measuring),1
+268,Vervaardiging van informatiedragers,Manufacture of magnetic and optical media,1
+2680,Vervaardiging van informatiedragers,Manufacture of magnetic and optical media,1
+27,Vervaardiging van elektrische apparatuur,Manufacture of electrical equipment,1
+271,Verv. elektromotoren/-generatoren e.d.,"Manufacture of electric motors, generators, transformers and electricity distrib",1
+2711,Verv. elektromotoren/generatoren/transf.,"Manufacture of electric motors, generators and transformers",1
+2712,Verv. schakel- en verdeelinrichtingen,Manufacture of electricity distribution and control apparatus,1
+272,Verv. batterijen en accumulatoren,Manufacture of batteries and accumulators,1
+2720,Verv. batterijen en accumulatoren,Manufacture of batteries and accumulators,1
+273,Verv. elektr(on)ische schakelmateriaal,Manufacture of wiring and wiring devices,1
+2731,Verv. kabels van optische vezels,Manufacture of fibre optic cables,1
+27310,Vervaardiging van kabels van optische vezels,Manufacture of fibre optic cables,1
+273101,Vervaardiging van optische vezels,Manufacture of optical fiber,1
+273102,Verv. kabels van optische vezels,Manufacture of fibre optic cables,1
+2732,Verv. overige elektr(on)ische kabel,Manufacture of other electronic and electric wires and cables,1
+2733,Verv. schakelaars/stekkers/stopcontacten,Manufacture of wiring devices,1
+274,Verv. elektr. lampen en verlichtingsapp.,Manufacture of electric lighting equipment,1
+2740,Verv. elektr. lampen en verlichtingsapp.,Manufacture of electric lighting equipment,1
+275,Vervaardiging van huishoudapparaten,Manufacture of domestic appliances,1
+2751,Verv. elektrische huishoudapparaten,Manufacture of electric domestic appliances,1
+2752,Verv. niet-elektrische huishoudapparaten,Manufacture of non-electric domestic appliances,1
+279,Verv. overige elektrische apparatuur,Manufacture of other electrical equipment,1
+2790,Verv. overige elektrische apparatuur,Manufacture of other electrical equipment,1
+28,Verv. overige machines en apparaten,Manufacture of machinery and equipment n.e.c.,1
+281,Verv. motoren/turbines/pompen e.d.,Manufacture of general — purpose machinery,1
+2811,Verv. motoren/turbines(niet voor voert.),"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",1
+28110,"Vervaardiging van motoren en turbines (geen motoren voor vliegtuigen, motorvoert","Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",1
+281101,Vervaardiging van windturbines,Manufacture of wind turbines,1
+281102,Verv. motoren/turbines(niet voor voert.),"Man. of engines/turbines (not for aircraft, motor vehicles, no wind turb.)",1
+2812,Verv. hydraulische apparatuur,Manufacture of fluid power equipment,1
+2813,Verv. niet-hydraulische pompen en compr.,Manufacture of other pumps and compressors,1
+2814,Vervaardiging van appendages,Manufacture of other taps and valves,1
+2815,"Verv. tandwielen, lagers en ov. drijfw.","Manufacture of bearings, gears, gearing and driving elements",1
+282,Verv. ov. machines/apparaten alg. gebr.,Manufacture of other general-purpose machinery,1
+2821,Verv. industriële ovens en branders,"Manufacture of ovens, furnaces and furnace burners",1
+2822,"Verv. hijs-, hef- en transportwerktuigen",Manufacture of lifting and handling equipment,1
+2823,Verv. kantoormachines en -apparatuur,Manufacture of office machinery and equipment (except computers and peripheral e,1
+2824,Verv. pneumatisch en elektrisch handger.,Manufacture of power-driven hand tools,1
+2825,Verv. apparaten industriële koeltechniek,Manufacture of non-domestic cooling and ventilation equipment,1
+2829,Verv. ov. machines/apparaten alg.gebruik,Manufacture of other general-purpose machinery n.e.c.,1
+283,Verv. mach./werktuigen land- en bosbouw,Manufacture of agricultural and forestry machinery,1
+2830,Verv. mach./werktuigen land- en bosbouw,Manufacture of agricultural and forestry machinery,1
+28300,Vervaardiging van machines en werktuigen voor de land- en bosbouw,Manufacture of agricultural and forestry machinery,1
+283001,Vervaardiging van landbouwtractoren,Manufacture of agricultural tractors,1
+283002,Verv. mach./werktuigen land- en bosbouw,Manufacture of machinery and equipment for agriculture and forestry (no tractors,1
+284,Vervaardiging van gereedschapswerktuigen,Manufacture of metal forming machinery and machine tools,1
+2841,Verv. gereedschapswerkt. metaalbewerk.,Manufacture of metal forming machinery,1
+2849,Verv. gereedschapswerkt niet metaalbew.,Manufacture of other machine tools,1
+289,Verv. ov. machines/apparaten spec. doel,Manufacture of other special-purpose machinery,1
+2891,Verv. machines voor de metallurgie,Manufacture of machinery for metallurgy,1
+2892,Verv. machines voor bouw/delfstofwinning,"Manufacture of machinery for mining, quarrying and construction",1
+2893,Verv. machines prod. voedings-/genotm.,Man. of mach. for food and beverage processing,1
+2894,Verv. machines prod.textiel/kleding/leer,"Manufacture of machinery for textile, apparel and leather production",1
+2895,Verv. machines productie papier/karton,Manufacture of machinery for paper and paperboard production,1
+2896,Verv. machines kunststof-/rubberindust.,Manufacture of plastic and rubber machinery,1
+2899,Verv. ov.machines/app./werkt. specifiek,Manufacture of other special-purpose machinery n.e.c.,1
+29,"Verv. auto's, aanhangwagens en opleggers","Manufacture of motor vehicles, trailers and semi-trailers",1
+291,Vervaardiging van auto's,Manufacture of motor vehicles,1
+2910,Vervaardiging van auto's,Manufacture of motor vehicles,1
+292,Carrosseriebouw; verv. aanhangers/opleg.,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers an,1
+2920,Carrosseriebouw/verv. aanhangers/oplegg.,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers an,1
+29201,Carrosseriebouw,Manufacture of bodies (coachwork) for motor vehicles,1
+29202,Verv. aanhangwagens en opleggers,Manufacture of trailers and semi-trailers,1
+293,Verv. onderdelen/toebehoren voor auto's,Manufacture of parts and accessories for motor vehicles,1
+2931,Verv. elektr(on)ische onderdelen auto's,Manufacture of electrical and electronic equipment for motor vehicles,1
+2932,Verv. niet-elektr(on)ische auto-onderd.,Manufacture of other parts and accessories for motor vehicles,1
+29320,Vervaardiging van niet-elektrische en -elektronische  onderdelen en toebehoren v,Manufacture of other parts and accessories for motor vehicles,1
+293201,Vervaardiging van autostoelen,Manufacture of car seats,1
+293202,Verv. onderd./accesoires voor auto's,Manufacture of parts and accessories for cars (no electrical or electronic and n,1
+30,Verv. overige transportmiddelen,Manufacture of other transport equipment,1
+301,Scheepsbouw,Building of ships and boats,1
+3011,Bouw van schepen en drijvend materieel,Building of ships and floating structures,1
+3012,Bouw van sport- en recreatievaartuigen,Building of pleasure and sporting boats,1
+302,Verv. rollend spoor- en tramwegmaterieel,Manufacture of railway locomotives and rolling stock,1
+3020,Verv. rollend spoor- en tramwegmaterieel,Manufacture of railway locomotives and rolling stock,1
+303,Verv. vliegtuigen en onderdelen daarvoor,Manufacture of air and spacecraft and related machinery,1
+3030,Verv. vliegtuigen en onderdelen daarvoor,Manufacture of air and spacecraft and related machinery,1
+30300,Vervaardiging van vliegtuigen en onderdelen daarvoor,Manufacture of air and spacecraft and related machinery,1
+303001,Vervaardiging van vliegtuigstoelen,Manufacture of airplane seats,1
+303002,Verv. vliegtuigen/onderdelen daarvoor,Manufacture of aircraft and components (no seats),1
+304,Verv. militaire gevechtsvoertuigen,Manufacture of military fighting vehicles,1
+3040,Verv. militaire gevechtsvoertuigen,Manufacture of military fighting vehicles,1
+309,Verv. transportmiddelen n.e.g.,Manufacture of transport equipment n.e.c.,1
+3091,Vervaardiging van motor- en bromfietsen,Manufacture of motorcycles,1
+30910,Vervaardiging van motor- en bromfietsen,Manufacture of motorcycles,1
+309101,Vervaardiging van motor- en bromfietsen,Manufacture of motorcycles,1
+309102,Verv. motoren voor motor- en bromfietsen,Manufacture of engines for motorcycle and moped,1
+3092,Verv. fietsen en invalidenwagens,Manufacture of bicycles and invalid carriages,1
+30920,Vervaardiging van fietsen en invalidenwagens,Manufacture of bicycles and invalid carriages,1
+309201,Vervaardiging van fietsen,Manufacture of bicycles,1
+309202,Vervaardiging van invalidenwagens,Manufacture of invalid carriages,1
+3099,Verv. overige transportmiddelen n.e.g.,Manufacture of other transport equipment n.e.c.,1
+31,Vervaardiging van meubels,Manufacture of furniture,1
+310,Vervaardiging van meubels,Manufacture of furniture,1
+3101,Interieurbouw en verv. bedrijfsmeubelen,Manufacture of office and shop furniture,1
+31011,Interieurbouw,Interior building,1
+31012,Vervaardiging van bedrijfsmeubels,Manufcature of office furniture,1
+310121,Verv. stoelen voor bedrijf en kantoor,Manufcature of office seats,1
+310122,Vervaardiging van bedrijfsmeubels,Manufacture of business furniture (no interior building or seats),1
+3102,Vervaardiging van keukenmeubels,Manufacture of kitchen furniture,1
+3103,Vervaardiging van matrassen,Manufacture of mattresses,1
+3109,Vervaardiging van overige meubels,Manufacture of other furniture,1
+31090,Vervaardiging van overige meubels,Manufacture of other furniture,1
+310901,Verv. woon-/slaapkamer-/tuinstoelen,"Manufacture of living room chairs,  bedroom chairs and garden chairs",1
+310902,Verv. woon-/slaapkamer-/tuin-/ov.meubels,Man. of living room-/bed room-/garden-  and other furniture (no chairs),1
+32,Vervaardiging van overige goederen,Other manufacturing,1
+321,Slaan munten/bew. edelstenen/verv. sier.,"Manufacture of jewellery, bijouterie and related articles",1
+3211,Slaan van munten en medailles,Striking of coins,1
+3212,Bewerken edelstenen en verv. sieraden,Man. of jewellery and related articles (no imitation),1
+3213,Vervaardiging van imitatiesieraden,Manufacture of imitation jewellery and related articles,1
+322,Vervaardiging van muziekinstrumenten,Manufacture of musical instruments,1
+3220,Vervaardiging van muziekinstrumenten,Manufacture of musical instruments,1
+323,Vervaardiging van sportartikelen,Manufacture of sports goods,1
+3230,Vervaardiging van sportartikelen,Manufacture of sports goods,1
+324,Vervaardiging van speelgoed en spellen,Manufacture of games and toys,1
+3240,Vervaardiging van speelgoed en spellen,Manufacture of games and toys,1
+325,Verv. medische instrum./hulpmiddelen,Manufacture of medical and dental instruments and supplies,1
+3250,Verv. medische instr./hulpmiddelen,Manufacture of medical and dental instruments and supplies,1
+32501,Tandtechnische bedrijven,Dental equipment activities,1
+32502,Verv. medische instr./hulpmiddelen,Manufacture of medical instruments and supplies (not dental equipment),1
+325021,Verv. brillen(glazen) en contactlenzen,"Manufacture of spectacles, glasses and contact lenses",1
+325022,Vervaardiging van tand- en beencement,Manufacture of tooth and bone cement,1
+325029,Verv.med.instr./orthop. en prothese-art.,Manufacture of medical instruments and orthopedic and prosthetic products,1
+329,Vervaardiging van overige goederen,Manufacture of other goods n.e.c.,1
+3291,Vervaardiging van borstelwaren,Manufacture of brooms and brushes,1
+3299,Sociale werkvoorz./verv.ov.goederen neg.,Social work service and manufacture of other goods n.e.c.,1
+32991,Sociale werkvoorziening,Social work service,1
+32999,Verv. overige goederen n.e.g.,Manufacture of other goods n.e.c.,1
+33,Reparatie/installatie machines en app.,Repair and installation of machinery and equipment,1
+331,"Reparatie prod. van metaal, mach. en app","Repair of fabricated metal products, machinery and equipment",1
+3311,Reparatie van producten van metaal,Repair of fabricated metal products,1
+33110,Reparatie van producten van metaal,Repair of fabricated metal products,1
+331102,Rep./onderh. stoomketels niet voor c.v.,Repair and maintenance of steam boilers (not designed for central heating),1
+331103,"Rep./onderh. overige tanks, reservoirs","Repair/maint. of other tanks, reservoirs and containers of metal",1
+331104,Reparatie en onderhoud van wapens,Repair and maintenance of weapons,1
+3312,Reparatie en onderhoud van machines,Repair of machinery,1
+33121,Rep./onderh. mach. voor algemeen gebruik,Repair and maintenance of machines for general use and machine-parts,1
+331211,Rep./onderh. kantoormachines,Repair and maintenance of office machinery,1
+331212,Rep./onderh. mach./app. ind.klimaattech.,Repair/maint. of mach./equipm. for ind. air cond. and refrigeration,1
+331213,Rep./onderh. hijs-/hef-/transportwerkt.,Repair and maintenance of lifting and handling equipment,1
+331214,Rep./onderh. ovens en branders,Repair and maintenance of furnaces and burners,1
+331215,Rep./onderh. motoren en turbines,"Repair and maintenance of engines and turbines, not for aircraft, motor vehicles",1
+331216,Rep./onderh. pompen en compressoren,Repair and maintenance of pumps and compressors,1
+331217,"Rep./onderh. tandwielen, lagers e.d.","Repair and maintenance of gears, bearings and other driving elements",1
+331219,Rep./onderh. ov. machines voor alg.gebr.,Repair and maintenance of other general purpose machinery and machine parts,1
+33122,Rep./onderh. pneumatisch/elektr.gereeds.,Repair and maintenance of pneumatic and electric tools,1
+331221,Rep./onderh. pneum./elektr.handgereeds.,Repair and maintenance of pneumatic and electric hand tools,1
+331222,Rep./onderh.gereedschapswerkt.metaalbew.,Repair and maintenance of machine tools for metalworking,1
+331223,Rep./onderh. gereedschapswerktuigen,Repair/maint. of tools for machining of materials other than metal,1
+33123,Rep./onderh. machines specif.bedrijfstak,Repair and maintenance of machines for a specific industry sector,1
+331231,Rep./onderh.mach./werkt. land-/bosbouw,Repair/maint. of machinery/equipment for agriculture/forestry (no tractors),1
+331232,Rep./onderh. landbouwtractoren,Repair and maintenance of agricultural tractors,1
+331233,Rep./onderh. mach. bouw/delfstofwinning,"Repair and maintenance of machinery for mining, quarrying and construction",1
+331234,Rep./onderh.mach.prod.voedings-/genotm.,"Repair and maintenance of machinery for the production of food, beverages and to",1
+331235,Rep./ond.mach.prod.textiel/kleding/leer,"Repair and maintenance of machinery for the production of textile, apparel and l",1
+331236,Rep./onderh. machines prod.papier/karton,Repair and maintenance of machinery for the production of paper and paperboard,1
+331237,Rep./onderh. machines voor metallurgie,Repair and maintenance of machinery for metallurgy,1
+331239,Rep./ond.machines ov.specif.bedrijfstak,Repair and maintenance of machinery for other specific industries,1
+3313,Rep. elektronische/optische apparatuur,Repair of electronic and optical equipment,1
+33130,Reparatie van elektronische en optische apparatuur,Repair of electronic and optical equipment,1
+331301,Rep./onderh. elektronische componenten,Repair and maintenance of electronic components and circuit boards,1
+331302,Rep./onderh.elektr.smoorspoelen e.d.,"Repair and maintenance of electrical inductors, rectifiers and other inducers",1
+331303,Rep./onderh. bestralings-/elek.med. app.,Repair/maint. of radiation equipm. and electro-medical/therapeutic apparatus,1
+331304,Rep./onderh. optische apparatuur,Repair and maintenance of optical equipment,1
+3314,Reparatie van elektrische apparatuur,Repair of electrical equipment,1
+33140,Reparatie van elektrische apparatuur,Repair of electrical equipment,1
+331401,Rep./onderh.elektromotoren/-generatoren,"Repair and maintenance of electric motors, generators and transformers",1
+331402,Rep./onderh. schakel- en verdeelinricht.,Repair and maintenance of electricity distribution systems,1
+331403,Rep./onderh. batterijen en accumulatoren,Repair and maintenance of batteries and accumulators,1
+331404,Rep./onderh. elektr. verlichtingsbenod.,Repair and maintenance of electrical lighting equipment,1
+331405,Rep./onderh. meet-/regel-/controle-app.,"Repair and maintenance services of measuring, regulating and control devices",1
+3315,Reparatie en onderhoud van schepen,Repair and maintenance of ships and boats,1
+33150,Reparatie en onderhoud van schepen,Repair and maintenance of ships and boats,1
+331501,Rep./onderh.schepen (geen recreatiesch.),Repair and maintenance of ships (no recreational vessels),1
+331502,Rep./onderh. sport-/recreatievaartuigen,Repair and maintenance of sports and recreational vessels,1
+3316,Reparatie en onderhoud van vliegtuigen,Repair and maintenance of aircraft and spacecraft,1
+3317,Rep./onderh. overige transportmiddelen,Repair and maintenance of other transport equipment n.e.c.,1
+33170,Reparatie en onderhoud van overige  transportmiddelen n.e.g.,Repair and maintenance of other transport equipment n.e.c.,1
+331701,Rep./onderh.militaire gevechtsvoertuigen,Repair and maintenance of military combat vehicles,1
+331702,Rep./onderh.rollend spoor-/trammaterieel,Repair and maintenance of railway and tramway equipment,1
+331703,Rep./onderh. overige transportmiddelen,Repair and maintenance of other transport,1
+3319,Reparatie van overige apparatuur,Repair of other equipment,1
+33190,Reparatie van overige apparatuur,Repair of other equipment,1
+331901,Reparatie van netten en touw,Repair of nets and rope,1
+331902,Reparatie medische instrumenten/hulpmid.,Repair of medical instruments and devices,1
+332,Inst. industriële machines en apparatuur,Installation of industrial machinery and equipment,1
+3320,Installatie van industriële machines en apparatuur,Installation of industrial machinery and equipment,1
+3321,Installatie van ketels en tanks,Installation of kettles and tanks,1
+33210,Installatie van ketels en tanks,Installation of kettles and tanks,1
+332102,Inst. stoomketels (niet bedoeld voor cv),Installation of steam boilers not designed for central heating,1
+332103,"Inst. overige tanks, reservoirs e.d.","Installation of other tanks, reservoirs and containers of metal",1
+3322,Installatie van industriële machines,Installation of machines and machine-parts,1
+33221,Inst. machines voor algemeen gebruik,Installation of machines for general use and machine-parts,1
+332211,Installatie van kantoormachines,Installation of office machinery,1
+332212,Inst. mach./app. voor industr.klimaatr.,Install. of mach./equipm. for industrial air conditioning/refrigeration,1
+332213,"Inst. hijs-, hef- en transportwerktuigen",Installation of lifting and handling equipment,1
+332214,Installatie van ovens en branders,Installation of furnaces and burners,1
+332215,Installatie van motoren en turbines,"Installation of engines and turbines, not for aircraft, motor vehicles and moped",1
+332216,Installatie van pompen en compressoren,Installation of pumps and compressors,1
+332217,Inst. tandwielen/lagers/ov. drijwerkel.,"Installation of gears, bearings and other driving elements",1
+332219,Inst. ov. mach.algemeen gebr./onderdelen,Installation of other general purpose machinery and machine parts,1
+33222,Inst. pneumatisch en elektrisch gereeds.,Installation of pneumatic and electric tools,1
+332221,Inst. pneum. en elektr. handgereedschap,Repair and maintenance of pneumatic and electric hand tools,1
+332231,Inst. gereedschapswerktuigen metaalbew.,Repair and maintenance of machine tools for metalworking,0
+332223,Inst.gereeds.werkt. niet voor metaalbew.,Repair and maintenance of machine tools for machining of materials other than me,1
+33223,Inst. machines voor spec. bedrijfstak,Installation of machines for a specific industry sector,1
+332231,Inst. mach./werkt. voor land-/bosbouw,Install. of mach./equipm. for agriculture/forestry (no tractors),1
+332233,Inst. mach. voor delfstoffenwinning/bouw,"Installation of machinery for mining, quarrying and construction",1
+332234,Inst. mach.prod.voedings-/genotmiddelen,"Installation of machinery for the production of food, beverages and tobacco",1
+332235,Inst. mach. prod. textiel/kleding/leer,"Installation of machinery for the production of textile, apparel and leather",1
+332236,Inst. machines productie papier/karton,Installation of machinery for the production of paper and paperboard,1
+332237,Inst. machines voor de metallurgie,Installation of machinery for metallurgy,1
+332239,Inst. machines ov. spec. bedrijfstakken,Installation of machinery for other specific industries,1
+3323,Inst. elektronische en optische app.,Installation of electronic and optical equipment,1
+33230,Installatie van elektronische en optische apparatuur,Installation of electronic and optical equipment,1
+332302,"Inst. elektr.smoorspoelen, gelijkr. e.d.","Installation of electrical inductors, rectifiers and other inductors",1
+332303,Inst. bestralings-/elektromedische app.,Install. of radiation equipm. and electromedical/-therapeutic equipm.,1
+332304,Installatie van optische apparatuur,Installation of optical devices,1
+332305,Montage best.syst. industr. prod.straten,Instalation of control systems for industrial production lines,1
+3324,Installatie van elektrische apparatuur,Installation of electric equipment,1
+33240,Installatie van elektrische apparatuur,Installation of electric equipment,1
+332401,"Inst. elektromotoren, el. generatoren ed","Installation of electric motors, generators and transformers",1
+332402,Inst. schakel- en verdeelinrichtingen,Installation of electricity distribution systems,1
+332403,Inst. batterijen en accumulatoren,Installation of batteries and accumulators,1
+332405,Inst. meet-/regel-/controle-apparaten,"Installation services of measuring, regulating and control devices",1
+3329,Installatie van overige toebehoren,Installation of remaining accessories,1
+33290,Installatie van overige toebehoren,Installation of remaining accessories,1
+332902,Inst. medische instr. en hulpmiddelen,Installation of medical instruments and devices,1
+,"Productie en distributie van elektriciteit, aardgas, stoom en gekoelde lucht","Electricity, gas, steam and air conditioning supply",1
+35,Prod./distr./handel electr./gas/stoom ed,"Electricity, gas, steam and air conditioning supply",1
+351,Prod. elektr.; transmi./distr. elec/gas,"Electric power generation, transmission and distribution",1
+3511,Productie van elektriciteit,Production of electricity,1
+35111,Prod.elektr.(therm./kern-/warmtekracht),"Production of electricity through thermische, core and heat power centrales",1
+35112,Prod. elektriciteit door windenergie,Production of electricity through wind energy,1
+35113,Prod.elektr.zonnecellen/warmtep./waterkr,"Production of electricity through sun cells, heat pump and water power",1
+3512,Beh./expl transp.netten el./gas/warm w.,Transmission of electricity,1
+3513,Distr. elektr./gasv.brandst. via leiding,Distribution of electricity,1
+3514,Handel elektriciteit/gas via leidingen,Trade of electricity,1
+352,Productie van aardgas,Manufacture of gas; distribution of gaseous fuels through mains,1
+3520,Productie van aardgas,Manufacture of gas,1
+3521,Productie van aardgas,Manufacture of gas,1
+3522,Distributie van gasachtige brandstoffen door kranen,Distribution of gaseous fuels through mains,1
+3523,Handel in gas door kranen,Trade of gas through mains,1
+353,Prod./distr. van stoom en gekoelde lucht,Steam and air conditioning supply,1
+3530,Prod./distr/ van stoom en gekoelde lucht,Steam and air conditioning supply,1
+,Winning en distributie van water; afval- en afvalwaterbeheer en sanering,"Water suplly; sewerage, waste management and remediation activities",1
+36,Winning en distributie van water,"Water collection, treatment and supply",1
+360,Winning en distributie van water,"Water collection, treatment and supply",1
+3600,Winning en distributie van water,"Water collection, treatment and supply",1
+37,Afvalwaterinzameling en -behandeling,Sewerage,1
+370,Afvalwaterinzameling en -behandeling,Sewerage,1
+3700,Afvalwaterinzameling en -behandeling,Sewerage,1
+38,Afvalinzameling en -behandeling,"Waste collection, treatment and disposal; materials recovery",1
+381,Inzameling van afval,Waste collection,1
+3811,Inzameling van onschadelijk afval,Collection of non-hazardous waste,1
+3812,Inzameling van schadelijk afval,Collection of hazardous waste,1
+382,Behandeling van afval,Waste treatment and disposal,1
+3821,Behandeling van onschadelijk afval,Treatment and disposal of non-hazardous waste,1
+3822,Behandeling van schadelijk afval,Treatment and disposal of hazardous waste,1
+38220,Behandeling  van schadelijk afval,Treatment and disposal of hazardous waste,1
+382201,Behandeling van kernafval,Treatment of nuclear waste,1
+382202,Behan. schadelijk afval (geen kernafval),Treatment of hazardous waste (not nuclear waste),1
+383,Voorbereiding tot recycling,Materials recovery,1
+3831,"Sloop van schepen, witgoed, computers ed",Dismantling of wrecks,1
+38310,"Sloop van schepen, witgoed, computers e.d.",Dismantling of wrecks,1
+383101,Sloop van schepen,Dismantling of wrecks,1
+383102,"Sloop van witgoed, computers e.d.","Dismantling of white goods, computers etc.",1
+3832,Gesorteerd mater. voorber. tot recycling,Recovery of sorted materials,1
+38320,Gesorteerd materiaal voorbereiden tot recycling,Recovery of sorted materials,1
+383201,Voorbereiding tot recycling metaalafval,"Prep. of recycl. metal (excl. dismantling ships/cars, cons. electr. etc.)",1
+383202,Voorbereiding tot recycling van afval,Preparation for recycling (no metal),1
+39,Sanering en overig afvalbeheer,Remediation activities and other waste management services,1
+390,Sanering en overig afvalbeheer,Remediation activities and other waste management services,1
+3900,Sanering en overig afvalbeheer,Remediation activities and other waste management services,1
+,Bouwnijverheid,Construction,1
+41,Alg.burg. en utiliteitsbouw/projectontw.,Construction of buildings,1
+411,Projectontwikkeling,Development of building projects,1
+4110,Projectontwikkeling,Development of building projects,1
+412,Algemene burgerlijke en utiliteitsbouw,Construction of residential and non-residential buildings,1
+4120,Algemene burgerlijke en utiliteitsbouw,Construction of residential and non-residential buildings,1
+42,Grond-/water-/wegenbouw(geen grondverz.),Civil engineering,1
+421,"Bouw van wegen, spoorwegen, kunstwerken",Construction of roads and railways,1
+4211,Wegenbouw en stratenmaken,Construction of roads and motorways,1
+42111,Wegenbouw,Construction of motorways,1
+42112,Stratenmaken,Construction of roads,1
+4212,Bouw boven- en ondergrondse spoorwegen,Construction of railways and underground railways,1
+4213,Bouw van kunstwerken,Construction of bridges and tunnels,1
+422,Leggen van kabels en buizen,Construction of utility projects,1
+4221,Leggen van rioleringen/buizen/pijpen ed,Construction of utility projects for fluids,1
+42210,"Leggen van rioleringen, buizen en leidingen; aanleg van bronbemaling",Construction of utility projects for fluids,1
+422101,Leggen rioleringen/buizen/pijpleidingen,"Laying of sewers, pipes and pipelines",1
+422102,Aanleg van bronbemaling,"Laying of sewers, pipes and pipelines",1
+4222,Leggen van elektr.-/telecom.kabels,Construction of utility projects for electricity and telecommunications,1
+429,Bouw van overige civieltechnische werken,Construction of other civil engineering projects,1
+4291,Natte waterbouw,Construction of water projects,1
+4299,Bouw overige civieltechnische werken neg,Construction of other civil engineering projects n.e.c.,1
+42990,Bouw van overige civieltechnische werken n.e.g.,Construction of other civil engineering projects n.e.c.,1
+429901,Aanleg sportterreinen en -accommodaties,Construction of sports facilities and accommodations (no buildings),1
+429902,Bouw industriële werken (geen gebouwen),Construction of industrial works (no buildings),1
+43,Gespecialiseerde werkzaamh. in de bouw,Specialised construction activities,1
+431,Slopen bouwwerken/grondverzet/proefboren,Demolition and site preparation,1
+4311,Slopen van bouwwerken,Demolition,1
+4312,Grondverzet,Site preparation,1
+4313,Proefboren,Test drilling and boring,1
+432,Bouwinstallatie,"Electrical, plumbing and other construction installation activities",1
+4321,Elektrotechnische bouwinstallatie,Electrical installation,1
+43210,Elektrotechnische bouwinstallatie,Electrical installation,1
+432101,Inst. verlichting/telecom/alarm in geb.,"Installation of lighting, telecom and alarm in buildings",1
+432102,Inst. verlichting/signalering wegen e.d.,"Install. of lighting and signaling in roads, rail- and waterways, airports",1
+4322,Loodgieters- en fitterswerk; installatie,"Plumbing and sewage, heat and air conditioning installation",1
+43221,Loodg.- en fitterswerk; inst. sanitair,"Plumbing and sewage, heat and air conditioning installation",1
+43222,Inst. verwarmings-/luchtbehandelingsapp.,Heating and air conditioning installation,1
+4329,Overige bouwinstallatie,Other construction installation,1
+43290,Overige bouwinstallatie,Other construction installation,1
+432901,Inst. liften/roltrappen/bliksemafleiding,"Installation of elevators, escalators and lightning diversion",1
+432902,Isolatiewerkzaamheden,Insulation activities,1
+432909,Overige bouwinstallatie n.e.g.,Other construction installation activities n.e.c.,1
+433,Afwerking van gebouwen,Building completion and finishing,1
+4331,Stukadoren,Plastering,1
+4332,Bouwtimmeren,Joinery installation,1
+4333,Afwerking van vloeren en wanden,Floor and wall covering,1
+4334,Schilderen en glaszetten,Painting and glazing,1
+4339,Overige afwerking van gebouwen,Other building completion and finishing,1
+439,Dakbouw en ov. gespec. werkz. in de bouw,Other specialised construction activities,1
+4391,Dakdekken en bouwen van dakconstructies,Roofing activities,1
+4399,Overige gespec. werkzaamheden in de bouw,Other specialised construction activities n.e.c.,1
+43991,Heien en andere funderingswerkzaamheden,Piledriving and other foundations activities,1
+43992,Vlechten van betonstaal,Reinforced concrete steel,1
+43993,Metselen en voegen,Masonry activities,1
+43999,Overige gespec. werkz. in de bouw n.e.g.,Other specialized activities in the construction n.e.c.,1
+439991,Duikersbedrijven,"Professional diving activities (not recreational, no underwater sports)",1
+439992,Waterdichtmaken van daken en muren,Construction waterproofing,1
+439993,Verh. bouw-/sloopmachines met bed. pers.,Renting of construction and demolition equipment with operating personell,1
+439999,Overige gespec. werkz. in de bouw n.e.g.,Other specialized construction activities n.e.c.,1
+,"Groot- en detailhandel; reparatie van auto""s",Wholesale and retail trade; repair of motor vehicles and motorcycles,1
+45,Handel/rep. auto's/motoren/fietsen/aanh.,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+451,Handel in auto's/aanhangers + evt. rep.,Sale of motor vehicles,1
+4511,Handel/rep. personen-/lichte bedr.auto's,Sale of cars and light motor vehicles,1
+45111,Imp. nieuwe personen-/lichte bedr.auto's,Import of new passenger cars and light company carse,1
+45112,Handel/rep. personen-/lichte bedr.auto's,"Sale/repair of pass. cars, light motor veh. (no import of new cars)",1
+4519,Handel/rep.zw.bedr.auto's/aanh./caravans,Sale of other motor vehicles,1
+45191,Import van nieuwe bedrijfsauto's,Import of new business vehicles,1
+45192,Handel/rep. zwaardere bedrijfsauto's,Trade in and repair of business vehicles (no import of new),1
+45193,Handel/reparatie aanhangwagens/opleggers,Trade in and repair of trailers and semi-trailers (no caravans),1
+45194,Handel in en reparatie van caravans,Trade in and repair of caravans,1
+452,Gespecialiseerde reparatie van auto's,Maintenance and repair of motor vehicles,1
+4520,Gespecialiseerde reparatie van auto's,Maintenance and repair of motor vehicles,1
+45201,Auto-onderdelenservicebedrijven,Car-parts service business,1
+45202,Bandenservicebedrijven,Tire service business,1
+45203,Reparatie van specifieke auto-onderdelen,Repair of specific car-parts,1
+45204,Carrosserieherstel,Repair of bodies (coachwork) for motor vehicles,1
+45205,Overige gespec. reparatie/slepen auto's,Other specialized repair and adapting of cars; car tow,1
+453,Handel in auto-onderdelen/-accessoires,Sale of motor vehicle parts and accessories,1
+4531,Groothandel in auto-onderdelen en -accessoires,Wholesale and trade of motor vehicle parts and accessories,1
+45312,Groothandel/handelsbemiddeling in banden,Wholesale and trade of tires,1
+4532,Detailhandel in auto-onderdelen en -accessoires,Retail trade of motor vehicle parts and accessories,1
+454,Handel/reparatie motorfiets(onderdel)en,"Sale, maintenance and repair of motorcycles and related parts and accessories",1
+4540,Handel/reparatie motorfiets(onderdel)en,"Sale, maintenance and repair of motorcycles and related parts and accessories",1
+45401,Groothandel in motorfiets(onderdel)en,Wholesale and trade of motorcycles and related parts and accessories,1
+45402,Detailhandel en reparatie motorfiets(onderdel)en,Retail trade and repair of motorcycles and related parts and accessories,1
+46,Groothandel (niet in auto's/motorfietsen),"Wholesale trade, except of motor vehicles and motorcycles",1
+47,Handelsbemiddeling,Wholesale on a fee or contract basis,1
+4611,"Handelsbemiddeling landbouwprod., levende dieren e.d.","Agents involved in the sale of agricultural raw materials, live animals, textile",1
+4612,Handelsbemiddeling in brandst./ertsen/metalen/chem.prod.,"Agents involved in the sale of fuels, ores, metals and industrial chemicals",1
+4613,Handelsbemiddeling hout/vlakglas/sanitair/bouwmaterialen,Agents involved in the sale of timber and building materials,1
+4614,Handelsbemiddeling mach./techn.ben./schepen/vliegtuigen,"Agents involved in the sale of machinery, industrial equipment, ships and aircra",1
+4615,"Handelsbemiddeling in meubels, huish. art. en ijzerwaren","Comm. agents for furniture, household goods, hardware and ironmongery",1
+4616,Handelsbemiddeling textiel/kleding/schoeisel/lederwaren,"Agents involved in the sale of textiles, clothing, fur, footwear and leather goo",1
+4617,Handelsbemiddeling in voedings- en genotmiddelen,"Agents involved in the sale of food, beverages and tobacco",1
+4618,Handelsbemiddeling gespecialiseerd in overige goederen,Agents specialised in the sale of other particular products,1
+4619,Niet-gespecialiseerde handelsbemiddeling,Agents involved in the sale of a variety of goods,1
+462,Groothandel landbouwproducten en levende dieren,Wholesale of agricultural raw materials and live animals,1
+4621,Groothandel granen/ruwe tabak/oliën/zaden/veevoer,"Wholesale of grain, unmanufactured tobacco, seeds and animal feeds",1
+46211,Groothandel in granen,Wholesale of grain,1
+46212,"Groothandel zaden, pootgoed en peulvruchten",Wholesale of seeds and legumes,1
+46213,"Groothandel in hooi, stro en ruwvoeder",Wholesale of hay and straw,1
+46214,Groothandel in meng- en krachtvoeder,Wholesale of compound- and concentrated feedingstuff,1
+46215,Groothandel veevoeder(geen ruw-/meng-/krachtvoer),Wholesale of animal food,1
+46216,Groothandel ruwe plant. en dierlijke oliën e.d.,Wholesale of raw vegetable/animal oils/fats and the like,1
+46217,Groothandel in ruwe tabak,Wholesale of raugh tobacco,1
+46218,Groothandel akkerbouwprod./veevoeder (alg. ass.),Wholesale of crop farming products and animal food,1
+46219,Groothandel overige akkerbouwproducten,Wholesale of other crop farming products,1
+4622,Groothandel in bloemen en planten,Wholesale of flowers and plants,1
+4623,Groothandel in levende dieren,Wholesale of live animals,1
+46231,Groothandel in levend vee,Wholesale of living cattle,1
+46232,Groothandel huis-/wilde dieren/siervissen/-vogels,"Wholesale of pets, fish, birds and wild animals",1
+4624,Groothandel huiden/vellen/leer/halffabr. van leer,"Wholesale of hides, skins and leather",1
+46241,Groothandel in huiden en vellen,Wholesale of hides and skins,1
+46242,Groothandel leer en halffabrikaten van leer,Wholesale of leather,1
+463,Groothandel voedings- en genotmiddelen,"Wholesale of food, beverages and tobacco",1
+4631,Groothandel groenten/fruit/consumptieaardappelen,"Wholesale of vegerables, fruit and consumption potatoes",1
+46311,Groothandel in groenten en fruit,Wholesale of vegetables and fruit,1
+46312,Groothandel in consumptie-aardappelen,Wholesale of consumption potatoes,1
+45311,Groothandel auto-ond./-access. (geen banden),Wholesale and trade of car parts/accs (no tires),2
+4632,Groothandel vlees(waren)/wild en gev. (niet lev.),Wholesale of meat and meat products,1
+46320,Groothandel in vlees en vleesproducten en in wild en gevogelte (niet levend),Wholesale of meat and meat products,1
+463201,Groothandel pluimvee/wild/gevogelte (niet levend),"Wholesale in poultry, game and fowl (not alive)",1
+463202,Groothandel vlees(waren) (geen pluimvee/wild/gev),"Wholesale of meat and meat products ( not poultry, game and fowl)",1
+4633,Groothandel zuivelprod./spijsoliën/-vetten/eieren,"Wholesale of dairy products, edible oils and fats and eggs",1
+46331,Groothandel zuivelproducten/spijsoliën en -vetten,Wholesale of dairy products and edible oils and fats,1
+46332,Groothandel in eieren,Wholesale of eggs,1
+4634,Groothandel in dranken (geen zuivel),Wholesale of beverages (no dairy),1
+4635,Groothandel tabaksproducten/rokersbenodigdheden,Wholesale of tobacco products,1
+4636,"Groothandel suiker, chocolade en suikerwerk",Wholesale of sugar and chocolate and sugar confectionery,1
+4637,Groothandel koffie/thee/cacao/specer. (geen ruwe),"Wholesale of coffee, tea, cocoa and spices",1
+4638,Groothandel ov. voedingsmiddelen en -grondstoffen,"Wholesale of other food, incl. fish, crustaceans and molluscs",1
+46381,Groothandel in snacks,Wholesale of snacks,1
+46382,"Groothandel vis, schaal- en weekdieren","Wholesale of fish, crustaceans and molluscs",1
+46383,Gesp. Groothandel in ov. voedings- en genotm. neg,Specialized wholesale of other food n.e.c.,1
+46384,Groothandel in bakkerijgrondstoffen,Wholesale of bakery raw materials,1
+46389,Gesp. Groothandel ov.grondst.voedings- en genotm.,Specialized wholesale of other raw materials for the food industry,1
+4639,Groothandel voedings-/genotmiddelen algemeen ass.,"Non-specialised wholesale of food, beverages and tobacco",1
+464,Groothandel consumentenartikelen (non-food),Wholesale of household goods,1
+4641,Groothandel kledingst./fournituren/huish.textiel,Wholesale of textiles and household textiles,1
+46411,Groothandel kledingstoffen en fournituren,Wholesale of textiles,1
+46412,Groothandel huishoudtextiel en beddengoed,Wholesale of household textiles (bedding included),1
+4642,"Groothandel kleding, schoenen en mode-artikelen","Wholesale of clothing, footwear and fashion products",1
+46421,Groothandel in bovenkleding,Wholesale of outergarment,1
+46422,Groothandel in werkkleding,Wholesale of work clothing,1
+46423,Groothandel in onderkleding,Wholesale of undergarment,1
+46424,Groothandel in schoenen,Wholesale of footwear,1
+46425,Groothandel in mode-artikelen,Wholesale of fashion products,1
+46429,Groothandel textielwaren algemeen assortiment,Wholesale of textiles general selection,1
+4643,Groothandel el.huish.app./audio-/video/fotogr.art,Wholesale of electrical household appliances,1
+46431,Groothandel in witgoed,Wholesale of household appliances,1
+46432,Groothandel elektrische huishoudelijke apparaten,Wholesale of other electric domestic equipment,1
+46433,Groothandel audio- en video-apparatuur,Wholesale of audio- and video-equipment,1
+46434,Groothandel in fotografische artikelen,Wholesale of photographic articles,1
+46435,Groothandel in beeld- en geluidsdragers,Wholesale of image- and sound carriers,1
+46436,Groothandel in optische artikelen,Wholesale of optical articles,1
+4644,Groothandel glas/porselein/aardewerk/reinigingsm.,Wholesale of china and glassware and cleaning materials,1
+46441,"Groothandel glas, porselein en aardewerk","Wholesale of glass, porcelain and pottery",1
+46442,"Groothandel was-, poets- en reinigingsmiddelen","Wholesale of detergents, polishers and cleansers",1
+4645,Groothandel in parfums en cosmetica,Wholesale of perfume and cosmetics,1
+4646,Groothandel farmac.prod./med.instr./orthoped.art.,Wholesale of pharmaceutical goods,1
+46461,Groothandel in farmaceutische producten,Wholesale of  pharmaceutical products,1
+46462,Groothandel med./tandheelk.instr./verpl.art. e.d.,"Wholesale of medical/dental instruments, medical- and orthopedic auxiliary",1
+4647,Groothandel huismeub./woningtext./vloerbed./verl.,"Wholesale of furniture, carpets and lighting equipment",1
+46471,Groothandel in huismeubilair,Wholesale of furniture,1
+46472,Groothandel woningtextiel en vloerbedekking,Wholesale of carpets,1
+46473,Groothandel in verlichtingsartikelen,Wholesale of lighting equipment,1
+4648,Groothandel juweliersartikelen en uurwerken,Wholesale of watches and jewellery,1
+4649,Groothandel overige consumentenart. (non-food),Wholesale of other household goods,1
+46491,Groothandel in fietsen en bromfietsen,Wholesale of bicycles and motor driven bicycles,1
+46492,Groothandel in watersportartikelen,Wholesale of water sport articles,1
+46493,Groothandel kampeerartikelen (geen caravans),Wholesale of camping articles (no caravans),1
+46494,Groothandel in speelgoed,Wholesale of toys,1
+46495,Groothandel in muziekinstrumenten,Wholesale of musical instruments,1
+46496,Groothandel sportartikelen (geen watersport),Wholesale of sport articles,1
+46497,Groothandel papier-/kartonwaren(geen verpak.mat.),Wholesale of paper and cardboard (no packing materials),1
+46498,Groothandel boeken/tijdschriften/overig drukwerk,"Wholesale of books, periodicals and other printed matter",1
+46499,Groothandel ov. consumentenart. (non-food) n.e.g.,Wholesale of other household goods n.e.c.,1
+464991,Groothandel kantoor- en schoolbenodigdheden,"Wholesale of office/school supplies (no textbooks, furniture and office mach.)",1
+464992,Groothandel overige huishoudelijke artikelen,Wholesale of other household goods,1
+464999,Groothandel overige consumentenartikelen n.e.g.,Wholesale of other household goods n.e.c.,1
+465,Groothandel in ICT-apparatuur,Wholesale of information and communication equipment,1
+4651,"Groothandel computers, randapparatuur en software","Wholesale of computers, computer peripheral equipment and software",1
+4652,Groothandel elektronische/telecommunicatieapp.,Wholesale of electronic and telecommunications equipment and parts,1
+466,Groothandel mach./app./toebeh. voor ind./handel),"Wholesale of other machinery, equipment and supplies",1
+4661,Groothandel landbouwmachines/werktuigen/tractoren,"Wholesale of agricultural machinery, equipment and supplies",1
+4662,Groothandel in gereedschapswerktuigen,Wholesale of machine tools,1
+4663,Groothandel in machines voor de bouw,"Wholesale of mining, construction and civil engineering machinery",1
+4664,Groothandel textielindustrie-/naai-/breimachines,Wholesale of mach. for the textile ind. and sewing/knitting mach.,1
+4665,Groothandel in bedrijfsmeubels,Wholesale of office furniture,1
+46650,Groothandel in bedrijfsmeubels,Wholesale of office furniture,1
+466501,Groothandel in bedrijfsmeubels,Wholesale of office furniture,1
+466502,Groothandel bedrijfsmeubels (geen kantoormeubels),Wholesale of business furniture (no office furniture),1
+4666,Groothandel kantoormachines (geen computers),Wholesale of other office machinery and equipment,1
+4668,Groothandel mach. grafische/voedings-/genotm.ind.,"Wholesale of machines for the graphic, food and beverages and tobacco industry",1
+46681,Groothandel machines voor de grafische industrie,Wholesale of machines for the graphic industry,1
+46682,Groothandel machines voedings-/genotmiddelenindu.,"Wholesale of machines for food, beverages and tobacco industry",1
+4669,Groothandel ov.machines/app.voor industrie/handel,Wholesale of other machinery and equipment,1
+46691,Groothandel in intern transportmaterieel,Wholesale of internal transport equipment,1
+46692,Groothandel mach./app.warmte-/koel-/vriestechniek,Wholesale of machines and apparatus for climate control equipment,1
+46693,Groothandel verbrandingsmotoren/pompen/compress.,"Wholesale of combustion engines, pumps and compressors",1
+46694,Groothandel appendages/technische toebehoren e.d.,"Wholesale of boilerfittings, technical appliances, etc.",1
+46695,Groothandel in meet- en regelapparaten,Wholesale of measuring and control instruments,1
+46696,Groothandel in emballage,Wholesale of packaging,1
+46697,Groothandel scheepsbenodigdheden/visserij-art.,Wholesale of shipbuilders supplies and fishing articles,1
+46699,Groothandel ov.mach./app./toeb. ind./handel neg.,Wholesale of other machines and requirements for industry and trade n.e.c.,1
+466991,Groothandel ov. mach./app. voor ind./handel neg.,Wholesale of other machinery and equipment for Industry and Commerce n.e.c.,1
+466992,Groothandel in vakbenodigdheden n.e.g.,Wholesale of other professional necessities  n.e.c.,1
+466999,Groothandel gespec.in ov.benodigd.ind./handel neg,Wholesale specialised in the supplies for industry and trade n.e.c.,1
+467,Overige gespecialiseerde groothandel,Other specialised wholesale,1
+4671,Groothandel brandstoffen/over. minerale olieprod.,"Wholesale of solid, liquid and gaseous fuels and related products",1
+46711,Groothandel in vaste brandstoffen,Wholesale of solid fuels,1
+46712,Groothandel vloeibare en gasvormige brandstoffen,Wholesale of liquid and gaseous fuels,1
+46713,Groothandel minerale olieproducten (geen brandst),Wholesale of mineral oil products (no fuels),1
+4672,Groothandel in metalen en metaalertsen,Wholesale of metals and metal ores,1
+46721,Groothandel in metaalertsen,Wholesale of metal ores,1
+46722,Groothandel ferrometalen en -halffabrikaten,"Wholesale of iron, steel and -semifinished products",1
+46723,Groothandel non-ferrometalen en -halffabrikaten,Wholesale of non-ferrous metals and -semifinished products,1
+4673,Groothandel hout/sanitair/overige bouwmaterialen,"Wholesale of wood, construction materials and sanitary equipment",1
+46731,Groothandel in hout en plaatmateriaal,Wholesale of wood and plate material,1
+46732,Groothandel in verf en verfwaren,Wholesale of paint and paint goods,1
+46733,Groothandel in behang,Wholesale of wallpaper,1
+46734,Groothandel in vlakglas,Wholesale of construction glas,1
+46735,Groothandel in zand en grind,Wholesale of sand and gravel,1
+46736,Groothandel in tegels en plavuizen,Wholesale of paving tiles and stones,1
+46737,Groothandel sanitaire art./sanitair install.mat.,Wholesale of sanitary articles and sanitary fittings,1
+46738,Groothandel gespec. in overige bouwmat.,Wholesale specialized in other building materials,1
+46739,Groothandel bouwmaterialen algemeen assortiment,Wholesale of construction materials general selection,1
+4674,Groothandel ijzer-/metaalwaren/verwarmingsapp.,"Wholesale of hardware, plumbing and heating equipment and supplies",1
+46741,Groothandel in ijzer- en metaalwaren,Wholesale of iron and metal goods,1
+46742,Groothandel in verwarmingsapparaten,Wholesale of heating equipment,1
+4675,Groothandel in chemische producten,Wholesale of chemical products,1
+46751,Groothandel chem.grondst./chemicaliën ind.toep.,Wholesale of basic and industrial chemicals,1
+46752,Groothandel bestrijdingsmiddelen/kunstmest,Wholesale of agrochemical products,1
+4676,Groothandel overige intermediaire producten,Wholesale of other intermediate products,1
+46761,Groothandel textielgrondstoffen/-halffabrikaten,Wholesale of textile raw materials and -semifinished products,1
+46762,Groothandel in papier en karton,Wholesale of paper and paperboard,1
+46769,Groothandel overige intermediaire producten neg.,Wholesale of rubber and other intermediate products n.e.c.,1
+467691,Groothandel in rubber,Wholesale of rubber,1
+467699,Groothandel overige intermediaire producten neg.,Wholesale of other intermediate products n.e.c.,1
+4677,Groothandel in afval en schroot,Wholesale of waste and scrap,1
+46771,Groothandel in autosloopmateriaal,Wholesale of car demolition material,1
+46772,Groothandel ijzer-/staalschroot/oude non.ferrom.,Wholesale of iron and steel scrap and old non-ferrous metals,1
+46779,Groothandel overige oude materialen/afvalstoffen,Wholesale of other old materials and waste,1
+469,Niet-gespecialiseerde groothandel,Non-specialised wholesale trade,1
+4690,Niet-gespecialiseerde groothandel,Non-specialised wholesale trade,1
+46901,Niet-gespec. Groothandel in consumentenartikelen,Non-specialised wholesale trade of household goods,1
+46902,Niet-gespec. Groothandel in niet-consumentenart.,Non-specialised wholesale trade of non-household goods,1
+47,Detailhandel (niet in auto's),"Retail trade, except of motor vehicles and motorcycles",1
+471,"Supermarkten, warenhuizen en dergelijke",Retail sale in non-specialised stores,1
+4711,Supermarkten e.d. winkels alg.ass.v.gm.,"Supermarkets, department stores and similar non-specialised stores",1
+4719,Warenhuizen e.d. winkels alg. non-f.ass.,Department stores; Other retail sale in non-specialised stores,1
+47191,Warenhuizen,Department stores,1
+47192,Winkels met alg.assort. (geen warenh.),Retail sale of general selection (no department stores),1
+472,Gespec. winkels voedings-/genotmiddelen,"Retail sale of food, beverages and tobacco in specialised stores",1
+4721,Winkels in aardappelen/groenten/fruit,Retail sale of fruit and vegetables in specialised stores,1
+4722,Winkels in vlees(waren)/wild/gevogelte,Retail sale of meat and meat products in specialised stores,1
+47221,Winkels in vlees en vleeswaren,Retail sale of meat and meat products,1
+47222,Winkels in wild en gevogelte,Retail sale of game and poultry,1
+4723,Winkels in vis,"Retail sale of fish, crustaceans and molluscs in specialised stores",1
+4724,Winkels brood/banket/chocolade/suikerw.,"Shops selling bread, pastry, chocolate and sugar confectionery",1
+47241,Winkels in brood en banket,Retail sale of bread and pastries,1
+47242,Winkels in chocolade en suikerwerk,Retail sale of chocolate and sugar confectionery,1
+4725,Winkels in dranken,Retail sale of beverages in specialised stores,1
+4726,Winkels in tabaksproducten,Retail sale of tobacco products in specialised stores,1
+4729,Gespec. winkels in ov. voedings-/genotm.,Other retail sale of food in specialised stores,1
+47291,Winkels in kaas,Retail sale of cheese,1
+47292,Winkels in natuurvoeding/reformartikelen,Retail sale of organic food,1
+47293,Winkels in buitenlandse voedingsmiddelen,Retail sale of foreign food,1
+47299,Gesp. winkels in ov. voedings-/genotm.,Retail specialized in other nutrition food n.e.c.,1
+473,Benzinestations,Retail sale of automotive fuel in specialised stores,1
+4730,Benzinestations,Retail sale of automotive fuel in specialised stores,1
+474,Winkels in consumenten-elektronica,Retail sale of information and communication equipment in specialised stores,1
+4741,Winkels in computers/randapp./software,"Shops selling computers, peripheral equipment and software",1
+4742,Winkels in telecommunicatieapparatuur,Retail sale of telecommunications equipment in specialised stores,1
+4743,Winkels audio/video/alg.ass.wit-/bruing.,Retail sale of audio and video equipment in specialised stores,1
+47431,Winkels in audio- en videoapparatuur,Retail sale of audio and video equipment,1
+47432,Winkels alg. assortiment wit-/bruingoed,Retail sale of general range of household appliances,1
+475,Winkels overige huishoudelijke artikelen,Retail sale of other household equipment in specialised stores,1
+4751,Winkels kledingst./huish.textiel/fourn.,Retail sale of textiles in specialised stores,1
+47511,Winkels in kledingstoffen,Shops selling clothing fabrics,1
+47512,Winkels in huishoudtextiel,Retail sale of household textiles,1
+47513,Winkels breiwol/handwerken/fournituren,"Retail sale of knitting, needlework and trimmings",1
+4752,Winkels in doe-het-zelfartikelen,"Retail sale of hardware, paints and glass in specialised stores",1
+47521,Winkels in ijzerwaren en gereedschappen,Retail sale of hardware and tools,1
+47522,"Winkels in verf, verfwaren en behang","Retail sale of paint, paint goods and wallpaper",1
+47523,Winkels in houten bouw-/tuinmaterialen,Retail sale of wooden building materials and garden materials,1
+47524,Winkels in tegels,Retail sale of tiles,1
+47525,Winkels in keukens,Retail sale of kitchens,1
+47526,Winkels in parket-/laminaat-/kurkvloeren,"Retail sale of parquet-, laminate- and cork flooring",1
+47527,Winkels gespec. in ov. doe-het-zelf-art.,Retail sale specialized in other DIY products,1
+47528,Bouwmarkten/winkels bouwmat. alg.ass.,Retail sale of building material,1
+4753,Winkels in vloerbedekking en gordijnen,"Retail sale of carpets, rugs, wall and floor coverings in specialised stores",1
+47530,Winkels in vloerbedekking en gordijnen,"Retail sale of carpets, rugs, wall and floor coverings in specialised stores",1
+475301,Winkels in vloerbedekking,"Retail sale of carpets, rugs and floor coverings in specialised stores",1
+475302,Winkels in gordijnen en vitrage,Retail sale of curtains and drapes in specialised stores,1
+4754,Winkels in elektr. huish. artikelen,Retail sale of electrical household appliances in specialised stores,1
+47541,Winkels in witgoed,Retail sale of household appliances,1
+47542,Winkels in naai- en breimachines,Retail sale of sewing and knittingmachines,1
+47543,Winkels in overige elektr. huish. app.,Retail sale of other electrical household appliances,1
+47544,Winkels in onderd.voor el.huish.app.,Retail sale of electric household appliances parts,1
+4759,Winkels meubels/verl./ov. h.h.art. neg.,"Shops selling furniture, lighting and other household articles n.e.c.",1
+47591,Winkels in meubels,Retail sale of furniture,1
+47592,Winkels in verlichtingsartikelen,Retail sale of lighting equipment,1
+47593,Winkels art. woninginrichting alg. ass.,Retail sale of articles for home furnishing general assortment,1
+47594,Winkels in muziekinstrumenten,Retail sale of musical instruments,1
+47595,Winkels in glas-/porselein-/aardewerk,"Retail sale of glass, china and pottery",1
+47596,Winkels gespec. in overige huish.art.neg,Retail sale specialized in other household articles n.e.c.,1
+475961,Winkels woningtextiel (geen gordijnen),Retail sale in soft furnishings (no curtains and drapes),1
+475969,Winkels gespec. in ov.huish.art.n.e.g.,Retail sale specialized in other household articles n.e.c.,1
+47597,Winkels in huishoudelijke art. alg. ass.,Retail sale of household goods generall assortment,1
+476,Winkels lectuur/sport-/kampeer-/recr.art,Retail sale of cultural and recreation goods in specialised stores,1
+4761,Winkels in boeken,Retail sale of books in specialised stores,1
+4762,Winkels kranten/tijdschr./kantoorbeh.,Retail sale of newspapers and stationery in specialised stores,1
+47620,"Winkels in kranten, tijdschriften en kantoorbehoeften",Retail sale of newspapers and stationery in specialised stores,1
+476201,Winkels in school- en kantoorbehoeften,Retail sale of school supplies and stationary,1
+476202,Winkels in kranten en tijdschriften,Retail sale of newspapers and magazines,1
+476203,Winkels boeken/kranten/tijds./kantoorbe.,"Shops in books, newspapers/magazines, school/office supplies (gen. assorted)",1
+4763,Winkels in audio- en video-opnamen,Retail sale of music and video recordings in specialised stores,1
+4764,Winkels (brom)fietsen/sport-/kampeerart.,"Retail sale of bicycles and mopeds, sporting equipment in specialised stores",1
+47641,Winkels in fietsen en bromfietsen,Retail sale of bicycles and mopeds,1
+47642,Winkels in watersportartikelen,Retail sale of watersports articles,1
+47643,Winkels in sportart. (geen watersport),Retail sale of sports articles (no watersports),1
+47644,Winkels in kampeerart. (geen caravans),Retail sale of camping items (no caravans),1
+4765,Winkels in speelgoed,Retail sale of games and toys in specialised stores,1
+477,Winkels in overige artikelen,Retail sale of other goods in specialised stores,1
+4771,Winkels in kleding en mode-artikelen,Retail sale of clothing in specialised stores,1
+47711,Winkels in herenkleding,Retail sale of men clothing,1
+47712,Winkels in dameskleding,Retail sale of women clothing,1
+47713,Winkels in bovenkleding/mode-artikelen,Retail sale of outerwear and fashion items (generall assortment),1
+47714,Winkels in baby- en kinderkleding,Retail sale of baby- and children's clothing,1
+47715,Winkels in babyartikelen alg. assort.,Retail sale of baby articles generall assortment,1
+47716,"Winkels in onderkleding, foundations ed.","Retail sale of underwear, foundations, etc.",1
+47717,Winkels in mode-artikelen,Retail sale of fasion articles,1
+47718,Textielsupermarkten,Textile supermarkets,1
+4772,Winkels in schoenen en lederwaren,Retail sale of footwear and leather goods in specialised stores,1
+47721,Winkels in schoenen,Retail sale of footwear,1
+47722,Winkels in lederwaren en reisartikelen,Retail sale of leather goods and travel goods,1
+4773,Apotheken,Dispensing chemist in specialised stores,1
+4774,Winkels drogisterij-/medische artikelen,"Pharmacy, retail sale of medical and orthopaedic goods in specialised stores",1
+47741,Winkels in drogisterij-artikelen,Pharmacy,1
+47742,Winkels in medische/orthopedische art.,Retail sale of medical and orthopaedic goods,1
+4775,Winkels in parfums en cosmetica,Retail sale of cosmetic and toilet articles in specialised stores,1
+4776,Winkels in planten/tuinben./huisdieren,"Shops selling flowers, plants, seeds, garden mat. pets and articles for pets",1
+47761,Winkels bloemen/planten/zaden/tuinbenod.,"Retail sale of flowers, plants, seeds and garden supplies",1
+47762,Tuincentra,Garden equipment dealers,1
+47763,Winkels dier(benodigdhed)en/hengelsp.art,"Retail sale of pets, pet supplies and fishing articles",1
+4777,Winkels in juweliersartikelen/uurwerken,Retail sale of watches and jewellery in specialised stores,1
+4778,Winkels in overige artikelen n.e.g.,Other sale sale of new goods in specialised stores,1
+47781,Winkels in fotografische artikelen,Retail sale of fotographic articles,1
+47782,Winkels in optische artikelen,Retail sale of optical articles,1
+47783,Winkels in schilderijen/kunstvoorwerpen,"Retail sale of paintings, picture frames, prints, works of art and religious art",1
+47789,Winkels gespec. in overige art. n.e.g.,Retail sale specialized in other articles n.e.c.,1
+4779,Winkels in antiek/tweedehands goederen,Retail sale of second-hand goods in stores,1
+47791,Winkels in antiek,Retail sale of antiques,1
+47792,Winkels in tweedehands kleding,Retail sale of secondhand clothes,1
+47793,Winkels tweedeh. goederen (geen kleding),Retail sale of secondhand goods (no clothes),1
+478,Markthandel,Retail sale via stalls and markets,1
+4781,Markthandel voedings- en genotmiddelen,"Retail sale via stalls and markets of food, beverages and tobacco products",1
+47811,Markthandel aardappelen/groenten/fruit,"Retail sale via stalls and markets of potatoes, vegetables and fruit",1
+47819,Markthandel overige voedings- en genotm.,"Retail sale via stalls and markets of other food, beverages and tobacco",1
+4782,Markthandel in textiel/kleding/schoeisel,"Retail sale via stalls and markets of textiles, clothing and footwear",1
+4789,Markthandel in non-food artikelen,"Retail sale via markets of other goods (no textiles, clothing and footwear) ",1
+47891,Markthandel bloemen/planten/zaden/tuinb.,"Retail sale via stalls and markets of flowers, plants, seeds and garden supplies",1
+47892,Markthandel in tweedehands goederen,Retail sale via stalls and markets of secondhand goods,1
+47899,Markthandel in overige goederen,Retail sale via stalls and markets of other goods,1
+479,Detailhandel niet via winkel of markt,"Retail trade not in stores, stalls or markets",1
+4791,Detailhandel via internet,Retail sale via internet,1
+47911,Internethandel voeding en drogisterij,Retail sale via internet of food and medical goods,1
+47912,Internethandel consumentenelektronica,Retail sale via internet of consumer electronics,1
+47913,"Internethandel boek,tijdschrift,cd,dvd","Retail sale via internet of books, magazines, cd’s, dvd’s",1
+47914,"Internethandel kleding, mode-artikelen",Retail sale via internet of clothes and clothing accessories,1
+47915,Internethandel huis- en tuinartikelen,Retail sale via internet of articles for house and garden,1
+47916,Internethandel in vrijetijdsartikelen,Retail sale via internet of leisure articles,1
+47918,Detailhandel via internet in overige non-food,Retail sale via internet of other non-food,1
+47919,Internethandel alg.assortiment non-food,Non-specialised retail sale of non-food via internet,1
+4799,"Colportage, straathandel en detailhandel","Other retail sale not in stores, stalls or markets n.e.c.",1
+47991,Colportage,Door to door sales,1
+47992,Straathandel,Street trading,1
+47999,Detailhandel via overige distributievormen,Retail sale through distribution n.e.c.,1
+,Vervoer en opslag,Transportation and storage,1
+49,Vervoer over land,Land transport and transport via pipelines,1
+491,Pers.vervoer per spoor (geen tram/metro),"Passenger rail transport, interurban",1
+4910,Pers.vervoer per spoor (geen tram/metro),"Passenger rail transport, interurban",1
+492,Goederenvervoer per spoor,Freight rail transport,1
+4920,Goederenvervoer per spoor,Freight rail transport,1
+493,Personenvervoer over de weg,Other passenger land transport,1
+4931,Openbaar vervoer binnen steden,Urban and suburban passenger land transport,1
+4932,Vervoer per taxi,Taxi operation,1
+4939,Overig personenvervoer over de weg,Other passenger land transport n.e.c.,1
+49391,Ongeregeld personenvervoer over de weg,Occasional ground passenger transportation,1
+49392,Openb.interlokaal pers.vervoer over weg,Public interurban ground passenger transportation,1
+49393,Geregeld besloten pers.vervoer over weg,Regular private ground passenger transportation,1
+494,Goederenvervoer over de weg,Freight transport by road and removal services,1
+4941,Goederenvervoer over weg (geen verhuiz.),Freight transport by road,1
+4942,Verhuisvervoer,Removal services,1
+495,Transport via pijpleidingen,Transport via pipeline,1
+4950,Transport via pijpleidingen,Transport via pipeline,1
+50,Vervoer over water,Water transport,1
+501,Zee-/kustvaart (passagiersvaart/veerd.),Sea and coastal passenger water transport,1
+5010,Zee-/kustvaart (passagiersvaart /veerd.),Sea and coastal passenger water transport,1
+502,Zee-/kustvaart(vracht-/tank-/sleepvaart),"Sea and coastal freight water transport (cargo-, tank- and towing services)",1
+5020,Zee-/kustvaart(vracht-/tank-/sleepvaart),"Sea and coastal freight water transport (cargo-, tank- and towing services)",1
+50201,Zee-/kustvaart(vracht/tank; geen sleep),Sea and coastal water transport (cargo and tank ships),1
+50202,Zee- en kustsleepvaart,Sea and coastal freight water transport and towing services,1
+503,Binnenvaart (passagiersvaart/veerd.),Inland passenger water transport,1
+5030,Binnenvaart (passagiersvaart/veerd.),Inland passenger water transport,1
+504,Binnenvaart (vracht-/tank-/sleepvaart),"Inland freight water transport (cargo-, tank- and towing services)",1
+5040,Binnenvaart (vracht-/tank-/sleepvaart),"Inland freight water transport (cargo-, tank- and towing services)",1
+50401,Binnenvaart (vrachtvaart),Inland freight water transport (cargo services),1
+50402,Binnenvaart (tankvaart),Inland freight water transport (tank services),1
+50403,Binnenvaart (sleep- en duwvaart),Inland freight water transport (drag and push services),1
+51,Luchtvaart,Air transport,1
+511,Personenvervoer door de lucht,Passenger air transport,1
+5110,Personenvervoer door de lucht,Passenger air transport,1
+512,Goederenvervoer door de lucht,Freight air transport and space transport,1
+5121,Goederenvervoer door de lucht,Freight air transport,1
+5122,Ruimte vervoer,Space transport,1
+52,Opslag en dienstverlening voor vervoer,Warehousing and support activities for transportation,1
+521,Opslag,Warehousing and storage,1
+5210,Opslag,Warehousing and storage,1
+52101,Opslag in tanks,Warehousing and storage in tanks,1
+52102,Opslag in koelhuizen e.d.,"Warehousing and storage in cold stores, etc.",1
+52109,Opslag in distr.centra en overige opslag,"Storage in distrib. centres and other stor. (not in tanks, refrig. wareh. etc.)",1
+522,Dienstverlening voor vervoer,Support activities for transportation,1
+5221,Dienstverlening voor vervoer over land,Service activities incidental to land transportation,1
+5222,Dienstverlening voor vervoer over water,Service activities incidental to water transportation,1
+5223,Dienstverlening voor de luchtvaart,Service activities incidental to air transportation,1
+5224,"Laad-, los- en overslagactiviteiten",Cargo handling,1
+52241,Laad-/los-/overslagactiv. voor zeevaart,Cargo handling for sea fright,1
+52242,Laad-/los-/oversl.ac. niet voor zeevaart,Cargo handling (not for sea fright),1
+5229,Expediteurs/cargadoors/bevrachters e.d.,Other transportation support activities,1
+52291,Expediteurs/cargadoors/bevrachters e.d.,"Shippers, freight forwarders and other intermediaries of transportation",1
+52292,Weging en meting,Weighing and measuring,1
+53,Post en koeriers,Postal and courier activities,1
+531,Nationale post met univer. dienstverpl.,Postal activities under universal service obligation,1
+5310,Nationale post met univer. dienstverpl.,Postal activities under universal service obligation,1
+532,Post zonder universele dienstverpl.,Other postal and courier activities,1
+5320,Post zonder univ. dienstverpl./koeriers,Other postal and courier activities,1
+53201,Post zonder univ. dienstverplichting,Other postal activities,1
+53202,Koeriers,Courier activities,1
+,"Logies-, maaltijd-, en drankverstrekking",Accomodation and food service activities,1
+55,Logiesverstrekking,Accommodation,1
+551,Hotels e.d.,Hotels and similar accommodation,1
+5510,Hotels e.d.,Hotels and similar accommodation,1
+55101,Hotel-restaurants,Hotel-restaurants,1
+55102,Hotels (geen hotel-rest.)/pens./conf.o.,"Hotes (no hotel-restaurants), pensions and conference resorts",1
+552,Verh. vakantieh./-app./jeugdh./vak.kamp.,Holiday and other short-stay accommodation; youth hostels and holiday camps,1
+5520,Verh. vakantieh./-app./jeugdh./vak.kamp.,Holiday and other short-stay accommodation; youth hostels and holiday camps,1
+55201,Verh. vakantiehuisjes en appartementen,Holiday and other short-stay accommodation,1
+55202,Jeugdherbergen en vakantiekampen,"Youth hostels, tourist camps, group accommodation",1
+553,Kampeerterreinen,"Camping grounds, recreational vehicle parks and trailer parks",1
+5530,Kampeerterreinen,"Camping grounds, recreational vehicle parks and trailer parks",1
+559,Overige logiesverstrekking,Other accommodation,1
+5590,Overige logiesverstrekking,Other accommodation,1
+56,Eet- en drinkgelegenheden,Food and beverage service activities,1
+561,"Restaurants, cafetaria's e.d.",Restaurants and mobile food service activities,1
+5610,Restaurants/cafetaria's e.d./ijssalons,Restaurants and mobile food service activities,1
+56101,Restaurants,Restaurants,1
+56102,"Fastfoodrestaurants, ijssalons  e.d. ","Fast-food restaurants, ice cream parlours etc.",1
+562,Kantines en catering,Event catering and other food service activities,1
+5621,Eventcatering,Event catering activities,1
+5629,Kantines en contractcatering,Other food service activities,1
+563,Cafés,Beverage serving activities,1
+5630,Cafés,Beverage serving activities,1
+,Informatie en communicatie,Information and communication,1
+58,Uitgeverijen,Publishing activities,1
+581,"Uitgeverijen van boeken, tijdschriften, databanken e.d.","Publishing of books, magazines, databases etc",1
+5811,Uitgeverijen van boeken,Book publishing,1
+58110,Uitgeverijen van boeken,Book publishing,1
+581101,Uitgeverijen van boeken,Book publishing,1
+581102,Databanken (geen webportals),Databases (no webportals),1
+5812,Databanken,Databases,1
+5813,Uitgeverijen van kranten,Publishing of newspapers,1
+5814,Uitgeverijen van tijdschriften,Publishing of journals and periodicals,1
+5819,Overige uitgeverijen (niet van software),Other publishing activities,1
+582,Uitgeverijen van software,Software publishing,1
+5821,Uitgeverijen van computerspellen,Publishing of computer games,1
+5829,Overige uitgeverijen van software,Other software publishing,1
+59,Prod./distr. films/tv-prog./geluidsopn.,"Film, video and tv programme production, sound recording and music publishing",1
+591,Productie/distr. films/tv-programma's,"Motion picture, video and television programme activities",1
+5911,Prod. films en televisieprogramma's,"Motion picture, video and television programme production activities",1
+59111,Prod. films (geen televisiefilms),Motion picture production (no television),1
+59112,Productie van televisieprogramma's,Video programme production,1
+5912,Facilitaire activ. voor film-/tv-prod.,"Motion picture, video and television programme post-production activities",1
+59120,"Facilitaire activiteiten voor film-, video- en televisieproductie","Motion picture, video and television programme post-production activities",1
+591201,Exploitatie van filmstudio's,Exploitation of movie studios,1
+591202,Exploitatie van televisiestudio's,Exploitation of television studios,1
+591203,Facilitaire activ. voor film-/videoprod.,Facility operations for film and video production,1
+591204,Facilitaire activiteiten voor tv-prod.,Facility operations for television production,1
+5913,Distributie van films en tv-producties,"Motion picture, video and television programme distribution activities",1
+59130,"Distributie van films, video- en televisieproducties","Motion picture, video and television programme distribution activities",1
+591301,Distributie van films,Motion picture distribution activities,1
+591302,Distributie van televisieprogramma's,Distribution of television programs,1
+5914,Bioscopen,Motion picture projection activities,1
+592,Maken en uitgeven van geluidsopnamen,Sound recording and music publishing activities,1
+5920,Maken en uitgeven van geluidsopnamen,Sound recording and music publishing ,1
+59200,Maken en uitgeven van geluidsopnamen,Sound recording and music publishing activities,1
+592001,Productie van radioprogramma's,Production of radio programs,1
+592002,Productie van geluidsopnamen,Production of sound recording,1
+592003,Exploitatie van radiostudio's,Exploitation of radio studios,1
+592004,Exploitatie geluidstudio's (geen radio),Exploitation of recording studio's (no radio),1
+592009,Maken geluidsopn./uitgeven muziekopnamen,"Sound recording and music publishing  (no radio, no sound recording studios)",1
+60,Verzorgen/uitzenden radio-/tv-programmas,Programming and broadcasting activities,1
+601,Radio-omroepen,Radio broadcasting,1
+6010,Radio-omroepen,Radio broadcasting,1
+602,Televisie-omroepen,Television programming and broadcasting activities,1
+6020,Televisie-omroepen,Television programming and broadcasting activities,1
+61,Telecommunicatie,Telecommunications,1
+611,Draadgebonden telecommunicatie,Wired telecommunications activities,1
+6110,Draadgebonden telecommunicatie,Wired telecommunications activities,1
+612,Draadloze telecommunicatie,Wireless telecommunications activities,1
+6120,Draadloze telecommunicatie,Wireless telecommunications activities,1
+613,Telecommunicatie via satelliet,Satellite telecommunications activities,1
+6130,Telecommunicatie via satelliet,Satellite telecommunications activities,1
+619,Overige telecommunicatie,Other telecommunications activities,1
+6190,Overige telecommunicatie,Other telecommunications activities,1
+62,Dienstverl. activ. ohgv informatietechn.,"Computer programming, consultancy and related activities",1
+620,Dienstverl. activ. ohgv informatietechn.,"Computer programming, consultancy and related activities",1
+6201,Ontwikkelen/produceren/uitgeven software,Computer programming activities,1
+62010,"Ontwikkelen, produceren en uitgeven van software",Computer programming activities,1
+620101,Ontw./prod./uitgeven standaardsoftware,"Development, production and publication of standard software",1
+620102,Ontwikkelen/produceren maatwerksoftware,"Development, production and publication of custom software",1
+6202,Advisering en support ohgv informatietechnologie,Computer consultancy and support,1
+62020,Advisering ohgv informatietechnologie,Computer consultancy activities,0
+620201,Hardware consultancy,Computer hardware consultancy,0
+620202,Software consultancy,Software consultancy,0
+6203,Beheer van computerfaciliteiten,Computer facilities management activities,1
+6209,Ov. dienstv. act. ohgv informatietechn.,Other information technology and computer service activities,1
+62090,Ov. dienstv. act. ohgv informatietechn.,Other information technology and computer service activities,1
+620901,Implementeren van software,Software implementation,1
+620909,Ov. dienstv. act. ohgv inform.tech. neg,Other information technology and computer service activities n.e.c.,1
+63,Dienstverlening o.h.g.v. informatie,Information service activities,1
+631,Gegevensverw/webhosting/aanverwante act.,"Data processing, hosting and related activities; web portals",1
+6311,Gegevensverw./webhosting/aanverw. activ.,"Data processing, hosting and related activities",1
+6312,Webportals,Web portals,1
+632,Overige dienstv. activ. ohgv informatie,Other information services in the field of information,1
+6329,Overige dienstv. activ. ohgv informatie,Other information services in the field of information,1
+639,Overige dienstv. activ. ohgv informatie,Other information services in the field of information,1
+6391,Persagentschappen,News agencies,1
+6399,Ov. dienstv. activ. opgv informatie neg,Other information service activities n.e.c.,1
+,Financiële activiteiten en verzekeringen,Financial and insurance activities,1
+64,Financiële inst.(geen verz./pensioenf.),"Financial service activities, except insurance and pension funding",1
+641,Geldscheppende financiële instellingen,Monetary intermediation,1
+6411,Centrale banken,Central banking,1
+6419,Overige geldscheppende financiële inst.,Other monetary intermediation,1
+64191,Coöperatief georganiseerde banken,Coöperative banks organized,1
+64192,Effectenkredietinstellingen,Equities credit institutions,1
+64193,Spaarbanken,Savings banks,1
+64194,Algemene banken,Commercial banks,1
+642,Financiële holdings,Activities of holding companies,1
+6420,Financiële holdings,Activities of holding companies,1
+643,Beleggingsinstellingen,"Trusts, funds and similar financial entities",1
+6430,Beleggingsinstellingen,"Trusts, funds and similar financial entities",1
+64301,Beleggingsinstell. in financiële activa,"Trusts, funds and similar financial entities in financial assets",1
+64302,Beleggingsinstellingen in vaste activa,"Trusts, funds and similar financial entities in fixed assets",1
+64303,Beleggingsinst. met beperkte toetreding,Funds with limited membership,1
+649,Kredietverstr./over.fin.intermediatie,"Other financial service activities, except insurance and pension funding",1
+6491,Financiële lease,Financial leasing,1
+6492,Overige kredietverstrekking,Other credit granting,1
+64921,Hypotheekbanken en bouwfondsen,Mortgage banks and construction funds,1
+64922,Volkskredietbanken/commerciële financ.,Municipal credit banks and commercial finance companies,1
+64923,Participatiemaatschappijen,Investment firms,1
+64924,Wisselmakelaars/ov. kredietverstrekking,"Exchange brokers, banks for developing countries, lending n.e.c.",1
+6499,Overige financiële intermediatie,Other financial intermediation,1
+65,Verzekering/pensioenfondsen (geen verpl),"Insurance, reinsurance and pension funding, except compulsory social security",1
+651,Verzekeringen (geen herverzekering),Insurance,1
+6511,Levens-/naturaverzekeringen/spaarkassen,Life insurance,1
+65111,Levensverzekeringen (geen herverzekeren),Life insurance (no re-insurance),1
+65112,Naturaverzekeringen,In kind Insurance,1
+65113,Spaarkassen,Savings banks,1
+6512,Schadeverzekeringen (geen herverzekeren),Non-life insurance (no re-insurance),1
+652,Herverzekering,Reinsurance,1
+6520,Herverzekering,Reinsurance,1
+65200,Herverzekering,Reinsurance,1
+652001,Herverzekering van levensverzekeringen,Reinsurance of life insurances,1
+652002,Herverzekering van schadeverzekeringen,Reinsurance of non-life insurances,1
+653,Pensioenfondsen,Pension funding,1
+6530,Pensioenfondsen,Pension funding,1
+65301,Bedrijftakspensioenfondsen,Industry pension funding,1
+65302,Ondernemingspensioen-/spaarfondsen,Company pension funds and -savings fund,1
+65303,Beroepspensioenfondsen,Occupational pension funds,1
+65309,Overige pensioenfondsen,Other pension funds,1
+66,Overige financiële dienstverlening,Activities auxiliary to financial services and insurance activities,1
+661,"Financiële bemiddeling, advisering e.d.","Activities auxiliary to financial services, except insurance and pension funding",1
+6611,Beheer van financiële markten,Administration of financial markets,1
+6612,Commissionairs/makelaars in effecten ed,Security and commodity contracts brokerage,1
+6619,Administratiekantoren voor aandelen e.d.,Other auxiliary financ. services (excl. insurance and pension funds),1
+66191,Admin.kantoren voor aandelen/obligaties,Administration offices for equities and bonds,1
+66192,Marketmakers,Market maker,1
+66193,Hypotheek-/kredietbem./bankagentschappen,"Mortgage and credit, exchange offices, banks and savings agencies, etc.",1
+662,Dienstverl. ohgv verzek./pensioenfondsen,Activities auxiliary to insurance and pension funding,1
+6621,Risicoanalisten en schadetaxateurs,Risk and damage evaluation,1
+6622,Assurantietussenpersonen,Activities of insurance agents and brokers,1
+6629,Ov. dienstv. ohgv verz./pensioenfondsen,Other activities auxiliary to insurance and pension funding,1
+66291,Verzekeringsbeurzen,Insurance scholarships,1
+66292,Pensioenadv.bureaus/beheer pensioenverm.,Actuarial and pension consultancy; management of pension funds,1
+66293,Waarborgfondsen,Guarantee funds,1
+66299,Ov. dienstv. ohgv verz./pensioenf. neg.,Other services relating to insurance and pension funds n.e.c.,1
+663,Vermogensbeheer,Fund management activities,1
+6630,Vermogensbeheer,Fund management activities,1
+,Exploitatie van en handel in onroerend goed,Real estate activities,1
+68,Verhuur van en handel in onroerend goed,Real estate activities,1
+681,Handel in eigen onroerend goed,Buying and selling of own real estate,1
+6810,Handel in eigen onroerend goed,Buying and selling of own real estate,1
+682,Verhuur van onroerend goed,Renting and operating of own or leased real estate,1
+6820,Verhuur van onroerend goed,Renting and operating of own or leased real estate,1
+68201,Woningbouwverenigingen en -stichtingen,Housing associations and -foundations,1
+68202,Gemeentelijke woningbedrijven,Municipal housing companies,1
+68203,Verhuur van overige woonruimte,Other rental housing,1
+68204,Verh. onroerend goed (niet v woonruimte),Rental property (no rental of housing),1
+683,Bemiddeling in en beheer van onroerend,Real estate activities on a fee or contract basis,1
+6831,Bemidd. bij handel/huur/verhuur onr.goed,Real estate agencies,1
+6832,Beheer van onroerend goed,Management of real estate on a fee or contract basis,1
+,Vrije beroepen en wetenschappelijke en technische activiteiten,"Professional, scientific and technical activities",1
+69,Rechtsk. dienstv./accountancy/admin.,Legal and accounting activities,1
+691,Rechtskundige dienstverlening,Legal activities,1
+6910,Rechtskundige dienstverlening,Legal activities,1
+69101,Advocatenkantoren,Law firms,1
+69102,Rechtskundige adviesbureaus,Legal consultants,1
+69103,Notariskantoren,Notary offices,1
+69104,Deurwaarderskantoren,Bailiffs offices,1
+69105,Octrooibureaus,Patent offices,1
+692,Accountancy/belastingadv./administratie,"Accounting, bookkeeping and auditing activities; tax consultancy",1
+6920,Accountancy/belastingadv./administratie,"Accounting, bookkeeping and auditing activities; tax consultancy",1
+69201,Registeraccountants,Chartered accountants,1
+69202,Accountants-administratieconsulenten,Accountants- administration advisers,1
+69203,Boekhoudkantoren,Administration offices (accounting),1
+69204,Belastingconsulenten,Tax consultants,1
+69209,Overige administratiekantoren,Other administration offices,1
+70,Holdings (geen fin.)/concerndiensten ed.,Activities of head offices; management consultancy activities,1
+701,Holdings (geen fin.)/concerndiensten,Activities of head offices en management consultancy activities,1
+7010,Holdings (geen fin.)/concerndiensten,Activities of head offices en management consultancy activities,1
+70101,Concerndiensten binnen eigen concern,Management consultancy activities,1
+70102,Holdings (geen financiële),Activities of head offices,1
+702,Advisering ohgv management/bedrijfsv.,Management consultancy activities,1
+7021,Public relationsbureaus,Public relations and communication activities,1
+7022,Advisering ohgv management/bedrijfsv.,Business and other management consultancy activities,1
+70221,Organisatie-adviesbureaus,Management consulting,1
+70222,Advisering ohgv management/bedrijfsv.,Other consultancies in the field of business management and operation n.e.c.,1
+71,Architecten/ingenieurs/technisch ontwerp,Architectural and engineering activities; technical testing and analysis,1
+711,Architecten/ingenieurs/technisch ontwerp,Architectural and engineering activities and related technical consultancy,1
+7111,Architecten,Architectural activities,1
+71111,Architecten (geen interieurarchitecten),Architects (no interior design),1
+71112,Interieurarchitecten,Interior designers,1
+7112,Ingenieurs/overig techn. ontwerp/advies,Engineering activities and related technical consultancy,1
+712,Keuring en controle,Technical testing and analysis,1
+7120,Keuring en controle,Technical testing and analysis,1
+71201,Keuring/controle agr. prod./voedingsmid.,Technical testing and analysis and agricultural products and foodstuffs,1
+71202,Keuring/controle mach./app./materialen,"Technical testing and analysis and machinery, equipment and materials",1
+71203,Overige keuring en controle,Other technical testing and analysis,1
+72,Speur- en ontwikkelingswerk,Scientific research and development,1
+721,Natuurwetenschappelijk speur-/ontw.werk,Research and experimental development on natural sciences and engineering,1
+7211,Biotechnol. speur-/ontwikkelingswerk,Research and experimental development on biotechnology,1
+72111,Biotechnol. speur-/ontwikkelingswerk,Biotechnology research and development for agricultural products and processes,1
+72112,Biotechnol. speur-/ontwikkelingswerk,Biotechnology research and development for the benefit of medical and pharmaceut,1
+72113,Biotechnol. speur-/ontw.werk ov. toepas.,Biotechnology research and development for other uses,1
+7219,Natuurw. speur-/ontw.w. (niet biotechn.),Research and development on natural sciences and engineering (not biotech),1
+72191,Speur-/ontw.werk ohgv landbouw/visserij,Research and development on agriculture and fishery (not biotechnical),1
+72192,Technisch speur- en ontwikkelingswerk,Technical research and development,1
+72193,Speur-/ontw.werk ohgv gezondh./voeding,Research and development on health and food (not biotechnical),1
+72199,Ov.natuurw.speur-/ontw.werk (niet biot.),Other research and development activities in natural sciences (not biotech),1
+722,Speur-/ontw.w. ogv maatsch.-/geesteswet.,Research and experimental development on social sciences and humanities,1
+7220,Speur-/ontw.werk ogv maats./geesteswet.,Research and experimental development on social sciences and humanities,1
+73,Reclame en marktonderzoek,Advertising and market research,1
+731,Reclamebureaus/handel in adv.ruimte/tijd,Advertising,1
+7311,Reclamebureaus,Advertising agencies,1
+73110,Reclamebureaus,Advertising agencies,1
+731101,Reclame-ontwerp- en -adviesbureaus,Advertising design and consultancy activities,1
+731102,Overige reclamediensten,Other advertising activities,1
+7312,Handel in advertentieruimte en -tijd,Media representation,1
+732,Markt- en opinieonderzoekbureaus,Market research and public opinion polling,1
+7320,Markt- en opinieonderzoekbureaus,Market research and public opinion polling,1
+74,Industr.ontw./vormg.;fotog./vertalen ed,"Other professional, scientific and technical activities",1
+741,Industrieel ontwerp en vormgeving,Specialised design activities,1
+7410,Industrieel ontwerp en vormgeving,Specialised design activities,1
+74101,Communicatie- en grafisch ontwerp,Communication and graphic design,1
+74102,Industrieel en productontwerp,Industrial and product design,1
+74103,lnterieur- en ruimtelijk ontwerp,Interior and spatial design,1
+742,Fotografie/ontwikkelen van foto's/films,Photographic activities,1
+7420,Fotografie/ontwikkelen van foto's/films,Photographic activities,1
+74201,Fotografie,Photography,1
+74202,Ontwikkelwinkels,Develop stores,1
+74203,Ontwikkelcentrales,Develop center,1
+743,Vertalers en tolken,Translation and interpretation activities,1
+7430,Vertalers en tolken,Translation and interpretation activities,1
+749,Overige special. zakelijke dienstverl.,"Other professional, scientific and technical activities n.e.c.",1
+7490,Overige special. zakelijke dienstverl.,"Other professional, scientific and technical activities n.e.c.",1
+75,Veterinaire dienstverlening,Veterinary activities,1
+750,Veterinaire dienstverlening,Veterinary activities,1
+7500,Veterinaire dienstverlening,Veterinary activities,1
+,Administratieve en ondersteunende dienstverlening,Administrative and support service activities,1
+77,"Verh./lease auto's, consum.art. e.d.",Rental and leasing activities,1
+771,Verhuur en lease van auto's,Renting and leasing of motor vehicles,1
+7711,Verh./lease personen-/lichte bedr.auto's,Renting and leasing of cars and light motor vehicles,1
+77111,Verh. personen-/lichte bedrijfsauto's,Rental cars (no operational lease),1
+77112,Operat. lease pers.-/lichte bedr.auto's,Operational leasing of passenger cars,1
+7712,Verh./lease vrachtw./autob./car./aanh.,Renting and leasing of trucks,1
+772,Verhuur van consumentenartikelen,Renting and leasing of personal and household goods,1
+7721,Verhuur van sport- en recreatieartikelen,Renting and leasing of recreational and sports goods,1
+7722,Videotheken,Renting of video tapes and disks,1
+7729,Verhuur van overige consumentenartikelen,Renting and leasing of other personal and household goods,1
+77291,Verhuur van leesportefeuilles,Rental portfolios,1
+77292,Verh. kleding/huishoudelijke artikelen,"Rental of clothing, household, etc.",1
+77299,Verh. overige consumentenartikelen neg.,Rental and leasing of other household goods n.e.c.,1
+773,Verh./lease mach./werkt./ov. goederen,"Renting and leasing of other machinery, equipment and tangible goods",1
+7731,Verh./lease landbouwmachines/-werktuigen,Renting and leasing of agricultural machinery and equipment,1
+7732,Verh./lease machines/instal.voor de bouw,Renting and leasing of construction machinery,1
+7733,Verh./lease computers/kantoorapparatuur,Renting and leasing of office machinery and equipment (including computers),1
+7734,Verhuur en lease van schepen,Renting and leasing of ships,1
+7735,Verhuur en lease van vliegtuigen,Renting and leasing of air transport equipment,1
+7739,Verh./lease ov.mach./werkt./ov. goederen,Renting and leasing of other mach./equipm. and of other goods,1
+77391,Verhuur van automaten,Renting of vending machines,1
+77399,Verh./lease ov.mach./werkt./ov. goederen,Rental/leasing of other mach./equipm. and other goods (no vending/slot mach.),1
+773991,Verh. aanhangw./containers/caravans e.d.,"Rental and leasing of trailers, containers, caravans, motorcycles and railway eq",1
+773999,Verh./lease overige machines e.d.,"Renting and leasing of other machinery, equipment and other goods n.e.s.",1
+774,Lease niet-financiële immateriële activa,"Leasing of intellectual property and similar products, except copyrighted works",1
+7740,Lease niet-financiële immateriële activa,"Leasing of intellectual property and similar products, except copyrighted works",1
+78,Arbeidsbem./uitzendbureaus/personeelsbeh,Employment activities,1
+781,Arbeidsbemiddeling,Activities of employment placement agencies,1
+7810,Arbeidsbemiddeling,Activities of employment placement agencies,1
+782,Uitzend-/uitleenbureaus en banenpools,"Temporary employment agency activities, lending agencies and",1
+7820,Uitzend-/uitleenbureaus en banenpools,"Temporary employment agency activities, lending agencies and",1
+78201,Uitzendbureaus,Temporary employment agency,1
+78202,Uitleenbureaus,Lending agencies,1
+78203,Banenpools (werkgelegenheidsprojecten),Employment projects,1
+783,Payrolling (personeelsbeheer),Other human resources provision,1
+7830,Payrolling (personeelsbeheer),Other human resources provision,1
+79,"Reis-/organisatie, toeristische info ed","Travel agency, tour operator reservation service and related activities",1
+791,Reisbemiddeling en reisorganisatie,Travel agency and tour operator activities,1
+7911,Reisbemiddeling,Travel agency activities,1
+7912,Reisorganisatie,Tour operator activities,1
+799,Informatieverstr. ohgv toerisme /reserv.,Other reservation service and related activities,1
+7990,Info.verstr. ohgv toerisme/reservering,Other reservation service and related activities,1
+79900,Info.verstr. ohgv toerisme/reservering,Other reservation service and related activities,1
+799001,Informatieverstrekking ohgv toerisme,Provision of touristic information,1
+799002,Boekings- en bespreekbureaus,Booking agencies and box offices,1
+80,Beveiliging en opsporing,Security and investigation activities,1
+801,Particuliere beveiliging,Private security activities,1
+8010,Particuliere beveiliging,Private security activities,1
+802,Beveiliging via beveiligingssystemen,Security systems service activities,1
+8020,Beveiliging via beveiligingssystemen,Security systems service activities,1
+803,Opsporing,Investigation activities,1
+8030,Opsporing,Investigation activities,1
+81,Facility man./reiniging/landschapsverz.,Services to buildings and landscape activities,1
+811,Facility management,Combined facilities support activities,1
+8110,Facility management,Combined facilities support activities,1
+812,Reiniging,Cleaning activities,1
+8121,Interieurreiniging van gebouwen,General cleaning of buildings,1
+8122,Gespec. reiniging gebouwen / industrieel,Other building and industrial cleaning activities,1
+81221,Glazenwassen,Window cleaning,1
+81222,Schoorsteenvegen,Chimney-sweeping,1
+81229,Overige gespecialiseerde reiniging,Other specialised cleaning,1
+8129,Overige reiniging,Other cleaning activities,1
+813,Landschapsverzorging,Landscape service activities,1
+8130,Landschapsverzorging,Landscape service activities,1
+82,Overige zakelijke dienstverlening,"Office administrative, office support and other business support activities",1
+821,Brede admin. en secretariële dienstverl.,Office administrative services and specialised office support,1
+8211,Brede administratieve dienstverlening,Combined office administrative services,1
+8219,Secretariële dienstverlening,Specialised office support,1
+822,Callcenters,Activities of call centres,1
+8220,Callcenters,Activities of call centres,1
+823,Organiseren van congressen en beurzen,Organisation of conventions and trade shows,1
+8230,Organiseren van congressen en beurzen,Organisation of conventions and trade shows,1
+829,Overige zakelijke dienstverlening n.e.g.,Business support service activities n.e.c.,1
+8291,Kredietinformatie- en incassobureaus,Activities of collection agencies and credit bureaus,1
+8292,"Pakken, sorteren e.d. in loon",Packaging activities,1
+8299,Overige zakelijke dienstverlening n.e.g.,Other business support service activities n.e.c.,1
+82991,Veilingen land-/tuinbouw/visserijprod.,"Auctions of agriculture, horticulture and fisheries",1
+82992,Veilingen huisraad/kunst/antiek e.d.,"Auctions of furniture, art, antiques, machinery, etc. movables",1
+82999,Overige zakelijke dienstverlening n.e.g.,Other business services n.e.c.,1
+,Openbaar bestuur en defensie; verplichte sociale verzekeringen,Public administration and defence; compulsory social security,1
+84,Openb. best./overheidsd./verpl.soc.verz.,Public administration and defence; compulsory social security,1
+841,Openbaar bestuur,Administration of the State and the economic and social policy of the community,1
+8411,Algemeen overheidsbestuur,General public administration activities,1
+8412,Openb.best.ohgv gez.z./ond./cult./welz.,"Regul. of health care, education, cultural/social servic. (no social security)",1
+8413,Openbaar bestuur ohgv het bedrijfsleven,Regulation of and contribution to more efficient operation of businesses,1
+842,Overheidsdiensten,Provision of services to the community as a whole,1
+8421,Buitenlandse zaken,Foreign affairs,1
+8422,Defensie,Defence activities,1
+8423,Justitie,Justice and judicial activities,1
+84231,Rechtspraak,Judiciary,1
+84232,Ministerie van Justitie/gevangeniswezen,Ministry of justice and prisons,1
+8424,Politie,Public order and safety activities,1
+8425,Brandweer,Fire service activities,1
+843,Verplichte sociale verzekeringen,Compulsory social security activities,1
+8430,Verplichte sociale verzekeringen,Compulsory social security activities,1
+84300,Verplichte sociale verzekeringen,Compulsory social security activities,1
+843002,Verpl. sociale inkomensdervingsverzek.,Compulsory social  income loss insurance,1
+843003,Verpl. sociale demografische verzek.,Compulsory demographic social security,1
+843004,Overige verplichte sociale verzekeringen,Other compulsory social security activities,1
+,Onderwijs,Education,1
+85,Onderwijs,Education,1
+851,Preprimair onderwijs,Pre-primary education,1
+8510,Preprimair onderwijs,Pre-primary education,1
+852,Primair en speciaal onderwijs,Primary education,1
+8520,Primair en speciaal onderwijs,Primary education,1
+85201,Basisonderwijs voor leerplichtigen,Primary education,1
+85202,Speciaal basisonderwijs,Special primary education,1
+85203,Speciaal onderwijs in expertisecentra,Special education excellence,1
+853,Voortgezet onderwijs,Secondary education,1
+8531,Algemeen vormend voortgezet onderwijs,General secondary education,1
+85311,Havo en vwo,Higher general secondary education and pre-university education,1
+85312,Voorbereidend middelbaar beroepsonderw.,Preparatory secondary vocational education,1
+85313,Praktijkonderwijs,Practice education,1
+85314,Brede scholengemeens. voor voortg. ond.,Wide schools to secondary education,1
+8532,Middelbaar beroepsonderwijs en educatie,Technical and vocational secondary education,1
+85321,Middelbaar beroepsonderwijs,Secondary vocational,1
+85322,Educatie,Education,1
+85323,Middelb. ber.onderw. en educatie (comb.),Secondary vocational and education (combined),1
+854,Tertiair onderwijs,Higher education,1
+8541,Niet-universitair hoger onderwijs,Post-secondary non-tertiary education,1
+8542,Universitair hoger onderwijs,Tertiary education,1
+855,Overig onderwijs,Other education,1
+8551,Sport- en recreatieonderwijs,Sports and recreation education,1
+85511,Zeil- en surfscholen,Sailing- and surf schools,1
+85519,Overig sport- en recreatieonderwijs,Other sports and recreation education,1
+8552,Cultureel onderwijs,Cultural education,1
+85521,Dansscholen,Dance schools,1
+85522,Kunstzinnige vorming voor amateurs,Artistic creation of amateurs (not dance schools),1
+8553,Auto- en motorrijscholen,Driving school activities,1
+8559,Overig onderwijs n.e.g.,Other education n.e.c.,1
+85591,Afstandsonderwijs,Distance learning,1
+85592,Bedrijfsopleiding en -training,Corporate training,1
+85599,Studiebegeleiding/vorming/onderwijs neg,"Study, training and education n.e.c.",1
+856,Dienstverlening voor het onderwijs,Educational support activities,1
+8560,Dienstverlening voor het onderwijs,Educational support activities,1
+,Gezondheids- en welzijnszorg,Human health and social work activities,1
+86,Gezondheidszorg,Human health activities,1
+861,Ziekenhuizen,Hospital activities,1
+8610,Ziekenhuizen,Hospital activities,1
+86101,Universitair medische centra,Associate medical centres,1
+86102,Algemene ziekenhuizen,General hospitals,1
+86103,Categorale ziekenhuizen,Categorale hospitals,1
+861031,Revalidatiecentra met overnachting,Rehabilitation centres with accommodation,1
+861032,Categorale ziekenh. (geen revalidatiec.),Categorical hospitals (no rehabilitation centres),1
+86104,Geestelijke gez.-/versl.zorg met overn.,Mental health- and addiction care with overnight stay,1
+862,Medische en tandheelkundige praktijken,Medical and dental practice activities,1
+8621,Praktijken van huisartsen,General medical practice activities,1
+8622,Praktijken medisch spec./med. dagbehand.,Specialist medical practice activities,1
+86221,Praktijken medisch spec./med. dagbehand.,Practices of medical specialists and outpatient medical centers,1
+862211,Praktijken van medisch specialisten,Practices of medical specialists (no dental or psychiatry),1
+862212,Privé-klinieken zonder overnachting,Private clinics and independent treatment centres without accommodation,1
+862213,Abortusklinieken,Abortion clinics,1
+862214,Oncologische/radiotherapeutische inst.,Institutes for oncology and radiotherapy,1
+862219,Overige klinieken zonder overnachting,Other clinics without accommodation,1
+86222,Praktijken psychiaters/dagbeh.geest.g.z.,Psychiatrists and day-care centres for social health,1
+862221,Praktijken van psychiaters,Practices of psychiatrists,1
+862222,Dagbehandelcentra geestelijke gez.zorg,Day treatment for mental health and addiction care,1
+8623,Tandartspraktijken,Dental practice activities,1
+86231,Praktijken van tandartsen,Practices of dentists,1
+86232,Praktijken tandheelkundig specialisten,Practices of dental specialists,1
+862321,Praktijken van kaakchirurgen,Practices of oral surgeons,1
+862322,Praktijken van orthodontisten,Practices of orthodontists,1
+869,Paramedische prakt. zonder overnachting,Other human health activities,1
+8690,Paramedische praktijken en overige gezondheidszorg zonder overnachting,Other human health activities,1
+8691,Praktijken van verloskundigen/paramedici,Practices of birth attendants and paramedics,1
+86911,Praktijken van verloskundigen,Practices of birth attendants,1
+86912,Praktijken van fysiotherapeuten,Practices of physiotherapists,1
+86913,Praktijken van psychotherapeuten en -logen,Practices of psychologists/-therapists,1
+86919,Overige paramedische praktijken,Other param. practices (no physiother./psychology) and alternative healers,1
+869191,Prakt. oefentherap. Cesar/Mensendieck,Practices of therapists Cesar and Mensendieck,1
+869199,Overige paramedische praktijken,Other allied practices (no physiotherapy; no psychology; no alternative healers),1
+8692,Ov. aanbieders gez.zorg. zonder overn.,Other providers of health care without overnight and health support services,1
+86921,Gezondheidscentra,Health centres,1
+86922,Arbobegeleiding en reïntegratie,Health counselling and reintegration,1
+86923,Preventieve gezondh.zorg (geen arbobeg.),Preventive health care (no safety guidance),1
+86924,Medische laboratoria/trombosediensten ed,"Medical laboratories, thrombosis treatment and other services supporting researc",1
+86925,Ambulancediensten en centrale posten,Ambulance services and central posts,1
+86929,Samenwerkingsorganen ohgv gez.zorg,Cooperation bodies in the field of health care and other health support services,1
+869291,Overkoepelende organen ohgv gez.zorg,"Umbrella, coop. and advisory bodies and funds in the field of health care",1
+869299,Ov. gez.zorgondersteunende diensten neg,Other healthcare supporting services n.e.c.,1
+87,Verpleging/verzorging/begel. met overn.,Residential care activities,1
+871,Verpleeghuizen,Residential nursing care activities,1
+8710,Verpleeghuizen,Residential nursing care activities,1
+872,Huizen/dagverbl. verstandelijk gehand.,Residential and day care for mental retardation,1
+8720,Huizen/dagverbl. verstandelijk gehand.,Residential and day care for mental retardation,1
+87200,Huizen/dagverbl. verstandelijk gehand.,Residential and day care for mental retardation,1
+872001,Huizen voor verstandelijk gehandicapten,"Residential care activities for mental retardation, mental health and substance ",0
+872002,Dagverbl. verstandelijk gehandicapten,"Day care activities for mental retardation, mental health and substance abuse",0
+873,Huizen/dagverbl. niet-verstand. gehand.,Residential care activities for the elderly and disabled,1
+8730,Huizen/dagverbl. niet-verstand. gehand.,Residential care activities for the elderly and disabled,1
+87301,Huizen/dagverbl. niet-verstand. gehand.,Residential care activities for the disabled,1
+873011,Huizen voor niet-verstand. gehandicapten,Residential care activities for the disabled,1
+873012,Dagverbl. voor niet-verstand. gehandic.,Day care activities for the disabled,1
+87302,Verzorgingshuizen,Care homes,1
+879,Jeugdzorg/maatschapp. opvang met overn.,Other residential care activities,1
+8790,Jeugdzorg/maatschapp. opvang met overn.,Other residential care activities,1
+87901,Jeugdzorg (met overnacht. en dagverbl.),Youth care with overnight stay and day care centres for youth care,1
+879011,Jeugdzorg met verblijfsaccommodatie,Youth care with accommodation,1
+879012,Dagverblijven voor jeugdzorg,Day care activities for youth care,1
+87902,Maatschappelijk opvang met overnachting,Social care with overnight stay,1
+879021,Maatschappelijk opvang volwassenen,"Social care for adults, with accommodation",1
+879022,Internaten/herst.oorden/asielzoekersc.,"Boarding schools, convalescent centers and asylum centres",1
+88,Maatschapp. dienstverl. zonder overn.,Social work activities without accommodation,1
+881,Maats.dienstv.z.overn.ouderen/gehandic.,Social work activ. excl. accomm. for the elderly and disabled,1
+8810,Maats.dienstv.z.overn.ouderen/gehandic.,Social work activities without accommodation for the elderly and disabled,1
+88101,Thuiszorg,Home care,1
+88102,Welzijnswerk voor ouderen,Welfare work for elderly,1
+88103,Ondersteuning/begeleiding gehandicapten,Support and guidance of disabled,1
+889,Maatschapp. dienstverl. zonder overn.,Other social work activities without accommodation,1
+8891,Kinderopvang en peuterspeelzaalwerk,Child- and toddler day-care,1
+88911,Kinderopvang,Child day-care,0
+88912,Peuterspeelzaalwerk,Toddler day-care,0
+8899,Ambulante jeugdzorg/maatschappelijk werk,"Ambulatory youth, other social work activities without accommodation n.e.c.",1
+8899,Ambulante jeugdzorg/maatschappelijk werk,"Ambulatory youth, other social work activities without accommodation n.e.c.",2
+88991,Ambulante jeugdzorg,Ambulatory youth care,1
+88992,Maatschappelijk werk,Social work activities,1
+889921,Algemeen maatschappelijk werk,General social work activities,1
+889922,Specifiek maatschappelijk werk,Specific social work activities,1
+88993,Lokaal welzijnswerk,Local welfare,1
+889931,Sociaal-cultureel werk,Socio-cultural work,1
+889932,Brede welzijnsinstellingen,Multifunctional organisations for welfare,1
+88999,Overig maatsch.adv./gemeenschapshuizen,"Other civil advice, community homes and coop. bodies in welfare",1
+889991,Zelfhulpgroepen /onderlinge begeleiding,Self-help groups and mutual assistance,1
+889993,Exploitatie van gemeenschapshuizen,Exploitation of community homes,1
+889994,Overkoepelende organen e.d. (welzijnsw.),"Umbrella bodies, coop./advisory bodies and funds for social work",1
+889999,Overige maatschappelijke dienstverlening,"Other social services, advice and information",1
+,"Kunst, amusement en recreatie","Arts, entertainment and recreation",1
+90,Kunst,"Creative, arts and entertainment activities",1
+900,Kunst,"Creative, arts and entertainment activities",1
+9001,Podiumkunst en -vermaak,Performing arts,1
+90011,Beoefening van podiumkunst,Practice of performing arts,1
+90012,Producenten van podiumkunst,Producers of performing arts,1
+90013,Circus en variété,Circus,1
+9002,Dienstverlening voor uitvoerende kunst,Support activities to performing arts,1
+9003,Schrijven en overige scheppende kunst,Artistic creation,1
+90030,Schrijven en overige scheppende kunst,Artistic creation,1
+900301,Journalistiek,Journalism,1
+900302,Scheppende kunst/documentaire schrijvers,Artistic creation and documentary writers,1
+9004,Theaters/schouwburgen/evenementenhallen,Operation of arts facilities,1
+90041,Theaters en schouwburgen,"Theatres, opera houses and concert halls",1
+90042,Evenementenhallen,Event halls,1
+91,Cult.uitl.centra/openb.archieven/tuinen,"Libraries, archives, museums and other cultural activities",1
+910,Cult.uitl.centra/openb.archieven/tuinen,"Libraries, archives, museums and other cultural activities",1
+9101,Cult. uitleencentra/openbare archieven,Library and archives activities,1
+91011,Openbare bibliotheken,Public libraries,1
+91012,Kunstuitleencentra,Art lending centres,1
+91019,Ov. cult. uitleencentra en openb. arch.,Other cultural lending centres and public archives,1
+9102,Musea/kunstgalerieën/-expositieruimten,"Museums, art galleries and exhibition areas",1
+91021,Musea,Museums,1
+91022,Kunstgalerieën en -expositieruimten,Art galleries and exhibition areas,1
+9103,Monumentenzorg,Preservation of historical buildings,1
+9104,Dieren- en plantentuinen; natuurbehoud,Botanical and zoological gardens and nature reserves activities,1
+91041,"Dieren-/plantentuinen, kinderboerderijen",Botanical and zoological gardens and children farms,1
+91042,Natuurbehoud,Nature reserves activities,1
+92,Loterijen en kansspelen,Gambling and betting activities,1
+920,Loterijen en kansspelen,Gambling and betting activities,1
+9200,Loterijen en kansspelen,Gambling and betting activities,1
+92001,Loterijen/kansspelen(geen amusem.autom.),Gambling and betting activities (no amusement machines),1
+92009,Exploitatie amusements-/speelautomaten,Exploitation of amusement and gaming machines,1
+93,Sport en recreatie,Sports activities and amusement and recreation activities,1
+931,Sport,Sports activities,1
+9311,Sportaccommodaties,Operation of sports facilities,1
+93111,Zwembaden,Swimming pools,1
+93112,"Sporthallen, sportzalen en gymzalen","Sports halls, gymnasia and a gymnasium",1
+93113,Sportvelden,Sports fields,1
+93119,Overige sportaccommodaties,Other sports facilities,1
+9312,Buitensport,Activities of sport clubs,1
+93121,Veldvoetbal,Football,1
+93122,Veldsport in teamverband (geen voetbal),"Field sports (team practiced, no football)",1
+93123,Atletiek,Athletics,1
+93124,Tennis,Tennis,1
+93125,Paardensport en maneges,Horseback riding and riding schools,1
+93126,Wielersport,Wheelers sports,1
+93127,Auto- en motorsport,Car- and motorsports,1
+93128,Wintersport,Winter sports,1
+93129,Overige buitensport,Other outside sports,1
+9313,Fitnesscentra,Fitness facilities,1
+9314,Binnensport,Inside sports,1
+93141,Individuele zaalsport,Individual hall sports,1
+93142,Zaalsport in teamverband,Teamwork hall sports,1
+93143,Kracht- en vechtsport,Strength sports and martial arts,1
+93144,"Bowlen, kegelen, biljarten e.d.","Bowling, ninepins, pool, etc.",1
+93145,Denksport,Strategy,1
+93146,Sportscholen,Gyms,1
+93149,Overige binnensport en omnisport,Other inside sports,1
+9315,Watersport,Water sports,1
+93151,Zwem- en onderwatersport,Swimming sports and underwater sports,1
+93152,"Roei-, kano-, zeil- en surfsport e.d.","Rowing, canoeing, sailing and surfing sports, etc.",1
+9319,Overige sportactiviteiten,Other sports activities,1
+93191,Beroepssportlieden,Professional athletes,1
+93192,Hengelsport,Sport fishing,1
+93193,Verzorgen van vistochten,Arrange of fishing trips,1
+93194,Supportersverenigingen (sport),Supporters associations (sports-),1
+93195,Organiseren van sportevenementen,Organising of sporting events,1
+93196,Overkoepelende organen e.d. (sport),Umbrella bodies and coop./adv. bodies for sport,1
+93199,Overige sportactiviteiten n.e.g.,Other sports activities n.e.c.,1
+932,Overige recreatie,Amusement and recreation activities,1
+9321,Pret- en themaparken; kermisattracties,Activities of amusement parks and theme parks; fair attractions,1
+93211,Pret- en themaparken,Activities of amusement parks and theme parks,1
+93212,Kermisattracties,Fair attractions,1
+9329,Overige recreatie n.e.g.,Other amusement and recreation activities n.e.c.,1
+93291,Jachthavens,Marinas,1
+93299,Ov. recreatie n.e.g.(geen jachthavens),Other amusement and recreation activities n.e.c.,1
+,Overige dienstverlening,Other service activities,1
+94,Levensbesch./politieke/belangenorg. e.d.,Activities of membership organisations,1
+941,Bedrijfs-/werkgevers-/beroepsorg.,"Activities of business, employers and professional membership organisations",1
+9411,Bedrijfs- en werkgeversorganisaties,Activities of business and employers membership organisations,1
+9412,Beroepsorganisaties,Activities of professional membership organisations,1
+942,Werknemersorganisaties,Activities of trade unions,1
+9420,Werknemersorganisaties,Activities of trade unions,1
+949,Levensb./pol./ideële organ./hobbyclubs,Activities of other membership organisations,1
+9491,Levensbeschouwelijke organisaties,Activities of religious organisations,1
+94911,Religieuze organisaties,Religious organisations,1
+94919,Over. levensbeschouwelijke organisaties,Other humanitarian organisations,1
+9492,Politieke organisaties,Activities of political organisations,1
+9499,Ov. belangen-/ideële organ. / hobbyclubs,Activities of other membership organisations n.e.c.,1
+94991,Gezelligheidsverenigingen,Social clubs,1
+94992,Hobbyclubs,Hobby clubs,1
+94993,Steunfondsen (niet ohgv welzijnszorg),Support funds (no funding in the field of welfare),1
+94994,Vriendenkringen ohgv cultuur / fanclubs,"Friends circles in the fields of culture, fan clubs and other arts promotion",1
+94995,Overk. organen (niet ohgv welzijn/sport),"Umbrella and coop./adv. bodies (not for health care, welfare, sports/recreation)",1
+94996,Overige ideële organisaties n.e.g.,Other organizations idealistic n.e.c.,1
+94997,Overige belangenbehartiging n.e.g.,Other advocacy n.e.c.,1
+95,Reparatie van computers/consumentenart.,Repair of computers and personal and household goods,1
+951,Reparatie van computers/communicatieapp.,Repair of computers and communication equipment,1
+9511,Reparatie van computers/randapparatuur,Repair of computers and peripheral equipment,1
+9512,Reparatie van communicatieapparatuur,Repair of communication equipment,1
+952,Reparatie van consumentenartikelen,Repair of personal and household goods,1
+9521,Reparatie van consumentenelektronica,Repair of consumer electronics,1
+9522,Reparatie van elekt. huishoudelijke app.,Repair of household appliances and home and garden equipment,1
+9523,Reparatie van schoenen en lederwaren,Repair of footwear and leather goods,1
+9524,Reparatie en stoffering van meubels,Repair of furniture and home furnishings,1
+95240,Reparatie en stoffering van meubels,Repair of furniture and home furnishings,1
+952401,Reparatie en stoffering van zitmeubels,Repair and upholstery of seating furniture,1
+952402,Reparatie/stoffering van bedrijfsmeubels,Repair and upholstery of business furniture (no seating furniture),1
+952403,Reparatie/stoffering van meubels,Repair and upholstery of other furniture (no seating or business furniture),1
+9525,Reparatie van uurwerken en juweliersart.,"Repair of watches, clocks and jewellery",1
+9529,Reparatie van overige consumentenart.,Repair of other personal and household goods,1
+96,Wellness en ov.dienstv.; uitvaartbranche,Other personal service activities,1
+960,Wellness en ov.dienstv.; uitvaartbranche,Other personal service activities,1
+9601,Reinigen van kleding en textiel,Washing and (dry-)cleaning of textile and fur products,1
+96011,Wasserijen en linnenverhuur,Laundry and linen rental,1
+96012,Chemische wasserijen en ververijen,Dry cleaners and dyeing,1
+96013,Wassalons en -verzendinrichtingen,Laundrette establishments,1
+9602,Haar- en schoonheidsverzorging,Hairdressing and other beauty treatment,1
+96021,Haarverzorging,Haircare,1
+96022,Schoonheidsverzorging/pedi-/manicures,"Beauty treatment, pedi-/manicures",1
+9603,Uitvaartverz./crematoria/mortuaria e.d.,Funeral and related activities,1
+96031,Uitvaartverzorging,Funeral services,1
+96032,"Crematoria, mortuaria en begraafplaatsen","Crematories, mortuaries and cemeteries",1
+9604,"Sauna's, solaria, baden e.d.",Physical well-being activities,1
+9609,Overige dienstverlening n.e.g.,Other personal service activities n.e.c.,1
+,Huishoudens als werkgever; niet-gedifferentieerde productie van goederen en dien,Activities of households as employers; undifferentiated goods- and services-prod,1
+97,Huishoudens als werkg. huish. personeel,Activities of households as employers of domestic personnel,1
+970,Huishoudens als werkg. huish. personeel,Activities of households as employers of domestic personnel,1
+9700,Huishoudens als werkg. huish. personeel,Activities of households as employers of domestic personnel,1
+98,Prod. part. huish. voor eigen gebruik,Undifferentiated goods- and services-producing activities of private households ,1
+981,Prod.goederen part. huish. eigen gebruik,Undifferentiated goods-producing activities of private households for own use,1
+9810,Prod. goederen part.huish. eigen gebruik,Undifferentiated goods-producing activities of private households for own use,1
+982,Prod. diensten part.huish. eigen gebruik,Undifferentiated service-producing activities of private households for own use,1
+9820,Prod.diensten part.huish. eigen gebruik,Undifferentiated service-producing activities of private households for own use,1
+,Extraterritoriale organisaties en lichamen,Activities of extraterritorial organisations and bodies,1
+99,Extraterritoriale organisaties/lichamen,Activities of extraterritorial organisations and bodies,1
+990,Extraterritoriale organisaties/lichamen,Activities of extraterritorial organisations and bodies,1
+9900,Extraterritoriale organisaties/lichamen,Activities of extraterritorial organisations and bodies,1
+,Geen SBI code,No Code,1
+0001,(Code nog niet vastgesteld),(Code to be determined),1
+0002,Geen bedrijfsactiviteit(en),No activity,1
+45311,Groothandel auto-ond./-access. (geen banden),Wholesale and trade of car parts/accs (no tires),1
+6321,Persagentschappen,News agencies,2
+01131,Teelt van groenten in de volle grond,Cultivation of vegetables in the open ground,1
+01132,Teelt van groenten onder glas,Cultivation of vegetables in greenhouses,1
+01133,Teelt van paddenstoelen,Cultivation of mushrooms,1
+01134,Teelt van aardappels en overige wortel- en knolgewassen,Cultivation of potatoes and other roots and tuberous plants,1
+01191,Teelt snijbloemen en snijheesters in volle grond,Cultivation of cut flowers and cut shrubs in the open ground,1
+01192,Teelt snijbloemen en snijheesters onder glas,Cultivation of cut flowers and cut shrubs in greenhouses,1
+01193,Teelt van voedergewassen,Cultivation of forage crops,1
+01199,Teelt van overige eenjarige gewassen (rest),Growing of other perennial crops (rest),1
+01241,Teelt van appels en peren,Cultivation of apples and pears,1
+01242,Teelt van steenvruchten,Cultivation of stone fruit,1
+01251,Teelt van aardbeien in de volle grond,Cultivation of strawberries in the open ground,1
+01252,Teelt van aardbeien onder glas,Cultivation of strawberries in greenhouses,1
+01253,Teelt van houtig klein fruit in volle grond,Cultivation of woody small fruit in the open ground,1
+01254,Teelt van houtig klein fruit onder glas,Cultivation of woody small fruit in greenhouses,1
+01301,Teelt van bloembollen,Cultivation of flower bulbs,1
+01302,Teelt van perkplanten in de volle grond,Cultivation of bedding plants in the open ground,1
+01303,Teelt van perkplanten onder glas,Cultivation of bedding plants in greenhouses,1
+01304,Teelt van potplanten onder glas,Cultivation of pot plants in greenhouses,1
+01305,Teelt van boomkwekerijgewassen in de volle grond,Cultivation of arboricultural crops in the open ground,1
+01309,Teelt van overige sierplanten in de volle grond,Cultivation of other ornamental plants in the open ground,1
+01411,Houden van melkvee,Keeping dairy cattle,1
+01412,Opfokken van jongvee voor de melkveehouderij,Rearing young cattle for dairy farming,1
+01421,Houden van vleeskalveren,Keeping of veal calves,1
+01422,Overige vleesveehouderij en zoogkoeienbedrijven,Other meat and livestock companies,1
+01451,Fokken en houden van schapen,Breeding and keeping of sheep,1
+01452,Fokken en houden van geiten,Breeding and keeping of goats,1
+01461,Fokvarkens- vermeerderingsbedrijven,Pig breeding and rearing companies,1
+01462,Vleesvarkensbedrijven,Pig meat companies,1
+01463,Gesloten en deels gesloten varkensbedrijven,Closed and partially closed pig farming companies,1
+01471,Opfokken en/of houden van leghennen,Rearing and/or keeping of laying hens,1
+01472,Opfokken en/of houden van vleeskuikens,Rearing and/or keeping of broiler chickens,1
+01473,Opfokken van ouderdieren van leghennen en vleeskuikens,Rearing parents of laying hens and broiler chickens,1
+01479,Opfokken en/of houden van overig pluimvee,Rearing and/or keeping other poultry,1
+01491,Fokken en houden van edelpelsdieren,Breeding and keeping of fur-bearing animals,1
+01499,Fokken en houden van overige dieren,Breeding and keeping of other animals,1
+65121,Schadeverzekeringen (geen zorg),Non-life insurance (no heath),1
+65122,Zorgverzekeringen,Health insurance,1
